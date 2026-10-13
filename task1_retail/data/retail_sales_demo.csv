@@ -1,0 +1,653 @@
+Order ID,Order Date,Customer ID,Customer Name,Segment,Region,Category,Sub-Category,Product Name,Sales,Profit,Quantity,Discount
+ORD-10119,2023-08-17,CUST-0028,Customer 028,Home Office,North,Technology,Laptops,Laptop,470.71,36.43,4,0.2
+ORD-10172,2024-02-12,CUST-0098,Customer 098,Consumer,North,Office Supplies,Labels,Shipping Labels,19.05,1.76,8,0.05
+ORD-10441,2025-02-17,CUST-0114,Customer 114,Corporate,South,Technology,Laptops,Laptop Stand,3107.76,253.72,5,0.15
+ORD-10343,2023-05-23,CUST-0027,Customer 027,Corporate,North,Technology,Accessories,Wireless Mouse,1314.79,253.78,2,0.15
+ORD-10117,2023-12-17,CUST-0008,Customer 008,Consumer,East,Office Supplies,Binders,Ring Binder,332.29,86.56,8,0.2
+ORD-10275,2025-04-01,CUST-0072,Customer 072,Corporate,West,Furniture,Chairs,Office Chair,1090.45,-32.19,6,0.3
+ORD-10195,2025-03-28,CUST-0050,Customer 050,Home Office,West,Furniture,Tables,Work Table,238.65,24.69,8,0.3
+ORD-10369,2025-12-19,CUST-0001,,Home Office,East,Furniture,Chairs,Visitor Chair,388.84,-7.92,2,0.3
+ORD-10000,2025-10-22,CUST-0068,Customer 068,Home Office,East,Technology,Phones,Phone Case,3426.57,766.23,5,0.1
+ORD-10272,2025-09-27,CUST-0098,Customer 098,Consumer,South,Technology,Phones,Desk Phone,1172.6,113.9,5,0.0
+ORD-10191,2025-08-31,CUST-0084,Customer 084,Corporate,West,Office Supplies,Binders,Folder,298.46,93.79,7,0.3
+ORD-10016,2023-09-05,CUST-0116,Customer 116,Corporate,North,Technology,Accessories,USB Cable,260.43,24.53,6,0.0
+ORD-10097,2025-11-18,CUST-0053,Customer 053,Consumer,North,Technology,Laptops,Laptop Bag,1359.73,238.28,8,0.2
+ORD-10055,2025-06-01,CUST-0111,Customer 111,Consumer,South,Furniture,Storage,Filing Cabinet,257.61,3.75,8,0.3
+ORD-10333,2024-01-25,CUST-0007,Customer 007,Home Office,North,Office Supplies,Labels,Shipping Labels,491.47,105.71,7,0.0
+ORD-10401,2023-07-11,CUST-0101,Customer 101,Corporate,East,Technology,Accessories,Wireless Mouse,3391.03,514.03,8,0.05
+ORD-10257,2025-05-16,CUST-0062,Customer 062,Home Office,South,Office Supplies,Labels,Shipping Labels,150.96,6.8,4,0.2
+ORD-10317,2023-04-27,CUST-0006,Customer 006,Consumer,West,Office Supplies,Paper,A4 Paper,40.69,9.1,2,0.0
+ORD-10234,2025-12-06,CUST-0002,Customer 002,Home Office,North,Furniture,Bookcases,Wood Bookcase,1133.88,236.3,6,0.1
+ORD-10154,2023-05-31,CUST-0091,Customer 091,Home Office,North,Office Supplies,Binders,Document Wallet,34.99,10.35,5,0.05
+ORD-10324,2024-09-05,CUST-0088,Customer 088,Corporate,West,Office Supplies,Paper,A4 Paper,203.18,29.25,5,0.1
+ORD-10361,2024-05-29,CUST-0071,Customer 071,Corporate, west ,Technology,Phones,Phone Case,4992.02,1014.44,7,0.05
+ORD-10020,2023-08-18,CUST-0111,Customer 111,Corporate,South,Technology,Accessories,Keyboard,717.51,60.38,1,0.05
+ORD-10211,2024-05-26,CUST-0113,Customer 113,Consumer,South,Office Supplies,Paper,Sticky Notes,493.49,142.63,7,0.05
+ORD-10420,2024-11-11,CUST-0040,Customer 040,Consumer,South,Furniture,Tables,Meeting Table,183.31,30.65,3,0.15
+ORD-10169,2023-02-18,CUST-0069,Customer 069,Consumer,North,Office Supplies,Binders,Folder,336.53,112.89,6,0.1
+ORD-10097,2024-06-18,CUST-0074,Customer 074,Corporate,North,Technology,Laptops,Laptop,929.9,174.01,2,0.15
+ORD-10158,2025-06-12,CUST-0065,Customer 065,Home Office,West,Technology,Accessories,Wireless Mouse,543.23,110.7,7,0.1
+ORD-10426,2024-10-30,CUST-0071,Customer 071,Consumer,East,Furniture,Bookcases,Compact Shelf,712.25,58.89,3,0.3
+ORD-10043,2024-08-10,CUST-0085,Customer 085,Corporate,East,Technology,Printers,Printer Ink,2202.51,494.75,6,0.15
+ORD-10294,2023-07-11,CUST-0081,Customer 081,Consumer,West,Technology,Laptops,Laptop,492.59,113.27,4,0.2
+ORD-10025,2025-10-09,CUST-0060,Customer 060,Home Office,South,Furniture,Tables,Work Table,368.06,60.07,1,0.15
+ORD-10081,2023-09-06,CUST-0058,Customer 058,Home Office,West,Furniture,Tables,Meeting Table,1881.11,41.89,6,0.3
+ORD-10163,2025-07-10,CUST-0043,Customer 043,Home Office,North,Furniture,Tables,Side Table,,169.57,5,0.1
+ORD-10394,2023-10-11,CUST-0050,Customer 050,Home Office,North,Technology,Accessories,Wireless Mouse,1543.48,236.44,3,0.2
+ORD-10112,2025-02-18,CUST-0115,Customer 115,Corporate,South,Furniture,Chairs,Ergonomic Chair,1826.03,257.41,5,0.15
+ORD-10013,2024-07-12,CUST-0069,Customer 069,Corporate,North,Furniture,Storage,Storage Box,2300.82,483.27,7,0.05
+ORD-10425,2023-06-21,CUST-0097,Customer 097,Corporate,East,Office Supplies,Labels,Shipping Labels,187.23,28.01,8,0.15
+ORD-10010,2023-06-17,CUST-0108,Customer 108,Home Office,South,Furniture,Chairs,Visitor Chair,131.59,-13.73,1,0.3
+ORD-10398,2024-05-03,CUST-0015,Customer 015,Consumer,East,Technology,Printers,Printer Ink,933.25,97.68,2,0.1
+ORD-10435,2023-08-10,CUST-0039,Customer 039,Home Office,North,Office Supplies,Paper,Sticky Notes,38.85,8.74,7,0.3
+ORD-10424,2023-03-26,CUST-0082,Customer 082,Corporate,South,Furniture,Storage,Drawer Unit,1687.19,-101.81,6,0.15
+ORD-10230,2025-06-10,CUST-0113,Customer 113,Consumer,West,Technology,Laptops,Laptop Bag,3108.7,750.61,8,0.1
+ORD-10005,2025-02-15,CUST-0072,Customer 072,Home Office,South,Furniture,Chairs,Ergonomic Chair,657.81,67.02,6,0.1
+ORD-10339,2023-06-25,CUST-0040,Customer 040,Home Office,East,Technology,Printers,Laser Printer,2517.13,248.22,4,0.0
+ORD-10390,2025-08-27,CUST-0069,Customer 069,Home Office,South,Office Supplies,Pens,Marker Set,147.72,12.06,6,0.05
+ORD-10023,2024-01-28,CUST-0036,Customer 036,Consumer,East,Technology,Printers,Laser Printer,3973.26,425.14,5,0.1
+ORD-10420,2023-09-16,CUST-0015,Customer 015,Consumer,West,Office Supplies,Labels,Shipping Labels,34.54,10.51,1,0.05
+ORD-10316,2025-10-04,CUST-0102,Customer 102,Consumer,West,Technology,Phones,Smartphone,2094.04,208.31,3,0.05
+ORD-10338,2025-07-11,CUST-0034,Customer 034,Consumer,South,Furniture,Bookcases,Compact Shelf,1558.66,202.3,7,0.3
+ORD-10036,2024-05-06,CUST-0059,Customer 059,Home Office,South,Technology,Phones,Smartphone,382.45,48.3,1,0.0
+ORD-10422,2024-06-25,CUST-0096,Customer 096,Home Office,East,Office Supplies,Binders,Folder,138.43,19.11,2,0.05
+ORD-10165,2025-06-18,CUST-0095,Customer 095,Home Office,East,Technology,Printers,Printer Ink,2708.38,415.56,5,0.15
+ORD-10142,2023-02-22,CUST-0057,Customer 057,Consumer,West,Technology,Accessories,Keyboard,899.63,209.27,1,0.0
+ORD-10416,2025-10-04,CUST-0052,Customer 052,Home Office,North,Technology,Printers,Laser Printer,1994.86,306.09,7,0.1
+ORD-10265,not-a-date,CUST-0025,Customer 025,Corporate,West,Technology,Laptops,Laptop Stand,758.59,160.47,6,0.0
+ORD-10081,2025-06-24,CUST-0091,Customer 091,Corporate,North,Technology,Accessories,Wireless Mouse,2510.14,215.3,3,0.0
+ORD-10241,2025-04-15,CUST-0062,Customer 062,Consumer,West,Technology,Accessories,USB Cable,4780.6,497.6,8,0.3
+ORD-10144,2023-10-24,CUST-0001,Customer 001,Home Office,East,Furniture,Tables,Side Table,389.13,61.46,3,0.15
+ORD-10292,2025-09-29,CUST-0031,Customer 031,Corporate,South,Technology,Printers,Printer Ink,2223.49,561.33,8,0.15
+ORD-10064,2025-04-21,CUST-0005,Customer 005,Home Office,East,Technology,Laptops,Laptop Bag,3595.62,734.2,8,0.3
+ORD-10354,2023-07-25,CUST-0080,Customer 080,Corporate,North,Furniture,Chairs,Visitor Chair,677.88,112.45,8,0.05
+ORD-10222,2024-11-03,CUST-0012,Customer 012,Consumer,North,Office Supplies,Labels,File Labels,41.09,3.45,8,0.3
+ORD-10092,2025-06-27,CUST-0102,Customer 102,Consumer,South,Technology,Laptops,Laptop,262.5,24.94,1,0.15
+ORD-10238,2023-06-11,CUST-0103,Customer 103,Corporate,South,Office Supplies,Labels,Sticker Labels,56.31,1.04,4,0.3
+ORD-10195,2023-06-01,CUST-0031,Customer 031,Home Office,East,Furniture,Bookcases,Compact Shelf,1006.51,34.44,5,0.1
+ORD-10146,2024-08-28,CUST-0107,Customer 107,Consumer,East,Office Supplies,Pens,Ballpoint Pen,271.91,65.06,7,0.3
+ORD-10403,2024-03-24,CUST-0040,Customer 040,Corporate,North,Office Supplies,Binders,Document Wallet,253.73,60.82,5,0.05
+ORD-10425,2025-01-17,CUST-0035,Customer 035,Consumer,East,Office Supplies,Binders,Ring Binder,70.65,12.76,5,0.2
+ORD-10285,2025-09-13,CUST-0103,Customer 103,Corporate,North,Furniture,Bookcases,Wood Bookcase,490.35,97.72,8,0.3
+ORD-10119,2025-03-19,CUST-0087,Customer 087,Corporate,North,Technology,Laptops,Laptop Bag,676.7,92.17,2,0.2
+ORD-10252,2024-11-02,CUST-0039,Customer 039,Consumer,North,Office Supplies,Binders,Document Wallet,79.36,23.78,2,0.3
+ORD-10335,2024-04-25,CUST-0054,Customer 054,Consumer,West,Office Supplies,Binders,Folder,360.48,27.53,8,0.2
+ORD-10183,2025-04-15,CUST-0083,Customer 083,Consumer,West,Furniture,Chairs,Visitor Chair,1260.65,164.55,6,0.1
+ORD-10289,2024-07-19,CUST-0101,Customer 101,Consumer,North,Technology,Phones,Desk Phone,1209.85,109.03,2,0.0
+ORD-10408,2024-02-29,CUST-0033,Customer 033,Consumer,North,Office Supplies,Binders,Ring Binder,261.83,20.97,6,0.1
+ORD-10229,2023-02-22,CUST-0061,Customer 061,Corporate,North,Technology,Phones,Desk Phone,2052.94,460.13,4,0.05
+ORD-10433,2025-07-14,CUST-0062,Customer 062,Corporate,West,Office Supplies,Binders,Document Wallet,48.05,2.85,1,0.1
+ORD-10271,2023-08-10,CUST-0077,Customer 077,Corporate,West,Furniture,Storage,Storage Box,145.92,11.01,2,0.2
+ORD-10173,2025-11-01,CUST-0053,Customer 053,Corporate,West,Office Supplies,Labels,Shipping Labels,86.77,24.48,2,0.3
+ORD-10221,2025-05-01,CUST-0012,Customer 012,Consumer,East,Office Supplies,Paper,Sticky Notes,374.26,99.27,7,0.3
+ORD-10159,2023-09-24,CUST-0077,Customer 077,Corporate,North,Office Supplies,Paper,Card Stock,357.72,116.76,6,0.15
+ORD-10432,2025-11-05,CUST-0055,Customer 055,Home Office,North,Technology,Accessories,Keyboard,1592.74,149.86,8,0.1
+ORD-10015,2024-07-01,CUST-0082,Customer 082,Consumer,South,Technology,Accessories,Wireless Mouse,3948.89,746.55,5,0.05
+ORD-10316,2025-02-09,CUST-0097,Customer 097,Consumer,North,Furniture,Storage,Filing Cabinet,879.28,160.62,3,0.2
+ORD-10269,2024-07-11,CUST-0063,Customer 063,Home Office,East,Furniture,Storage,Filing Cabinet,889.01,1.56,8,0.1
+ORD-10382,2023-04-04,CUST-0064,Customer 064,Corporate,South,Technology,Printers,Printer Ink,30.14,6.89,1,0.05
+ORD-10293,2023-09-22,CUST-0055,Customer 055,Corporate,West,Furniture,Tables,Side Table,2601.88,-143.32,6,0.0
+ORD-10223,2024-08-15,CUST-0032,Customer 032,Home Office,West,Technology,Printers,Inkjet Printer,736.63,169.18,6,0.3
+ORD-10179,2025-12-09,CUST-0045,Customer 045,Home Office,South,Technology,Printers,Laser Printer,919.28,62.99,6,0.3
+ORD-10288,2024-04-28,CUST-0097,Customer 097,Home Office,West,Technology,Accessories,Wireless Mouse,707.25,81.64,4,0.0
+ORD-10231,2024-10-23,CUST-0060,Customer 060,Consumer,North,Office Supplies,Pens,Ballpoint Pen,184.46,11.69,8,0.1
+ORD-10414,2025-01-25,CUST-0117,Customer 117,Home Office,South,Furniture,Chairs,Visitor Chair,421.43,57.51,2,0.2
+ORD-10126,2024-10-20,CUST-0006,Customer 006,Home Office,West,Office Supplies,Labels,Sticker Labels,176.19,41.4,3,0.1
+ORD-10168,2025-06-18,CUST-0009,Customer 009,Consumer,West,Office Supplies,Binders,Folder,262.11,55.02,6,0.3
+ORD-10158,2024-08-04,CUST-0011,Customer 011,Home Office,West,Furniture,Tables,Meeting Table,123.04,1.37,2,0.3
+ORD-10079,2024-11-03,CUST-0018,Customer 018,Consumer,East,Technology,Phones,Phone Case,3125.02,450.43,7,0.05
+ORD-10084,2023-07-27,CUST-0104,Customer 104,Home Office,West,Office Supplies,Paper,Card Stock,276.94,76.75,6,0.05
+ORD-10240,2023-03-31,CUST-0101,Customer 101,Consumer,East,Furniture,Bookcases,Compact Shelf,1064.49,-18.72,4,0.15
+ORD-10283,2025-06-21,CUST-0048,Customer 048,Consumer,North,Furniture,Bookcases,Metal Bookcase,2740.52,-185.02,7,0.05
+ORD-10027,2024-08-06,CUST-0054,Customer 054,Corporate,East,Technology,Accessories,Wireless Mouse,6210.29,1485.07,8,0.05
+ORD-10424,2024-04-27,CUST-0118,Customer 118,Corporate,South,Furniture,Chairs,Ergonomic Chair,1307.03,-88.29,4,0.3
+ORD-10154,2025-08-18,CUST-0031,Customer 031,Consumer,North,Furniture,Chairs,Office Chair,294.55,6.23,1,0.3
+ORD-10000,2024-05-03,CUST-0055,Customer 055,Home Office,East,Furniture,Storage,Storage Box,363.89,-13.41,2,0.3
+ORD-10447,2024-05-07,CUST-0050,Customer 050,Corporate,North,Office Supplies,Labels,Shipping Labels,122.18,23.98,2,0.2
+ORD-10068,2025-03-03,CUST-0043,Customer 043,Consumer,East,Furniture,Bookcases,Compact Shelf,36.7,4.87,1,0.3
+ORD-10103,2024-11-24,CUST-0038,Customer 038,Consumer,South,Office Supplies,Binders,Document Wallet,123.25,22.57,8,0.05
+ORD-10335,2023-03-27,CUST-0111,Customer 111,Corporate,East,Furniture,Bookcases,Compact Shelf,1375.21,-0.07,7,0.3
+ORD-10410,2023-09-12,CUST-0035,Customer 035,Consumer,West,Furniture,Storage,Filing Cabinet,1398.01,32.76,8,0.15
+ORD-10179,2023-06-11,CUST-0057,Customer 057,Corporate,North,Furniture,Tables,Side Table,262.95,37.01,5,0.1
+ORD-10347,2024-12-23,CUST-0078,Customer 078,Corporate,North,Office Supplies,Labels,File Labels,21.24,1.24,1,0.3
+ORD-10039,2023-09-16,CUST-0098,Customer 098,Home Office,South,Technology,Accessories,Keyboard,1948.73,412.35,6,0.05
+ORD-10133,2025-12-20,CUST-0100,Customer 100,Home Office,West,Furniture,Storage,Filing Cabinet,316.44,62.72,5,0.15
+ORD-10432,2024-03-15,CUST-0088,Customer 088,Corporate,East,Office Supplies,Pens,Gel Pen,59.1,4.26,8,0.05
+ORD-10121,2023-05-13,CUST-0018,Customer 018,Corporate,North,Office Supplies,Pens,Marker Set,139.7,14.17,3,0.1
+ORD-10294,2025-01-09,CUST-0106,Customer 106,Consumer,South,Office Supplies,Pens,Marker Set,54.86,13.52,3,0.3
+ORD-10257,2024-10-11,CUST-0056,Customer 056,Consumer,North,Office Supplies,Paper,Sticky Notes,451.08,144.29,8,0.2
+ORD-10282,2025-11-27,CUST-0082,Customer 082,Corporate,South,Technology,Laptops,Laptop,737.59,176.27,3,0.2
+ORD-10021,2024-09-12,CUST-0073,Customer 073,Consumer,North,Office Supplies,Paper,Card Stock,36.85,10.42,3,0.2
+ORD-10247,2023-04-04,CUST-0039,Customer 039,Consumer,West,Office Supplies,Pens,Gel Pen,176.26,40.27,4,0.15
+ORD-10440,2024-09-01,CUST-0094,Customer 094,Corporate,West,Furniture,Chairs,Visitor Chair,197.55,2.2,1,0.1
+ORD-10127,2023-09-25,CUST-0054,Customer 054,Consumer,East,Furniture,Chairs,Ergonomic Chair,593.55,132.08,4,0.0
+ORD-10024,2024-10-02,CUST-0046,Customer 046,Consumer,East,Technology,Accessories,Wireless Mouse,3137.62,523.89,8,0.15
+ORD-10291,2025-10-10,CUST-0007,Customer 007,Home Office,South,Office Supplies,Labels,File Labels,49.58,1.45,1,0.3
+ORD-10191,2025-01-12,CUST-0051,Customer 051,Corporate,East,Office Supplies,Pens,Ballpoint Pen,133.38,43.02,7,0.2
+ORD-10167,2023-10-23,CUST-0018,Customer 018,Home Office,East,Technology,Printers,Printer Ink,54.94,9.33,1,0.15
+ORD-10056,2023-11-29,CUST-0087,Customer 087,Corporate,East,Furniture,Bookcases,Compact Shelf,1270.38,204.58,6,0.2
+ORD-10348,2023-02-24,CUST-0106,Customer 106,Consumer,North,Office Supplies,Labels,File Labels,42.84,5.56,4,0.3
+ORD-10372,2023-08-14,CUST-0095,Customer 095,Consumer,South,Technology,Phones,Desk Phone,1878.88,403.95,6,0.2
+ORD-10348,2025-11-28,CUST-0093,Customer 093,Home Office,East,Technology,Laptops,Laptop Bag,3102.67,398.59,8,0.2
+ORD-10178,2025-09-18,CUST-0062,Customer 062,Home Office,East,Technology,Accessories,Wireless Mouse,997.91,211.65,5,0.1
+ORD-10131,2024-08-12,CUST-0084,Customer 084,Home Office,West,Technology,Printers,Laser Printer,4645.53,1217.94,6,0.1
+ORD-10026,2024-03-14,CUST-0030,Customer 030,Consumer,West,Technology,Laptops,Laptop Bag,689.29,59.24,5,0.05
+ORD-10102,2024-11-07,CUST-0084,Customer 084,Corporate,East,Office Supplies,Labels,Shipping Labels,189.9,33.91,3,0.15
+ORD-10428,2024-08-07,CUST-0005,Customer 005,Corporate,West,Office Supplies,Paper,A4 Paper,285.23,92.98,4,0.05
+ORD-10068,2024-01-17,CUST-0064,Customer 064,Home Office,West,Office Supplies,Pens,Ballpoint Pen,66.98,13.67,1,0.1
+ORD-10098,2024-07-12,CUST-0097,Customer 097,Consumer,West,Technology,Phones,Desk Phone,1994.19,453.33,3,0.0
+ORD-10385,2025-05-25,CUST-0058,Customer 058,Corporate,East,Office Supplies,Pens,Ballpoint Pen,81.7,12.76,7,0.1
+ORD-10360,2024-09-10,CUST-0114,Customer 114,Corporate,North,Office Supplies,Paper,Sticky Notes,60.6,19.27,6,0.1
+ORD-10410,2024-08-27,CUST-0069,Customer 069,Home Office,South,Furniture,Tables,Work Table,643.65,55.91,3,0.1
+ORD-10274,2024-05-21,CUST-0074,Customer 074,Consumer,South,Office Supplies,Paper,Card Stock,588.36,118.64,8,0.0
+ORD-10288,2024-11-02,CUST-0059,Customer 059,Consumer,West,Office Supplies,Labels,Shipping Labels,245.19,46.55,4,0.15
+ORD-10035,2024-09-23,CUST-0008,Customer 008,Corporate,North,Office Supplies,Paper,Sticky Notes,235.54,50.02,5,0.0
+ORD-10068,2024-08-10,CUST-0070,Customer 070,Home Office,East,Furniture,Tables,Work Table,2664.65,331.37,7,0.15
+ORD-10272,2023-08-31,CUST-0055,Customer 055,Corporate,South,Technology,Printers,Printer Ink,1985.63,547.43,3,0.0
+ORD-10008,2024-05-21,CUST-0114,Customer 114,Consumer,South,Furniture,Bookcases,Wood Bookcase,2200.5,119.17,5,0.0
+ORD-10148,2023-05-18,CUST-0065,Customer 065,Consumer,East,Technology,Phones,Desk Phone,191.31,19.79,1,0.2
+ORD-10284,2024-10-18,CUST-0055,Customer 055,Corporate,North,Technology,Laptops,Laptop,1237.97,292.09,4,0.2
+ORD-10439,2024-12-06,CUST-0039,Customer 039,Home Office,South,Office Supplies,Labels,Sticker Labels,144.73,43.5,6,0.05
+ORD-10424,2025-08-06,CUST-0093,Customer 093,Consumer,North,Technology,Printers,Laser Printer,1094.6,289.46,3,0.0
+ORD-10007,2024-07-03,CUST-0117,Customer 117,Consumer,South,Furniture,Chairs,Office Chair,1147.75,222.69,4,0.05
+ORD-10184,2023-08-29,CUST-0034,Customer 034,Home Office,West,Office Supplies,Labels,Shipping Labels,97.51,14.52,4,0.1
+ORD-10296,2025-08-12,CUST-0075,Customer 075,Home Office,West,Technology,Printers,Laser Printer,1327.59,297.43,4,0.05
+ORD-10370,2024-08-27,CUST-0063,Customer 063,Home Office,West,Technology,Accessories,Wireless Mouse,1000.61,234.55,4,0.3
+ORD-10433,2025-08-01,CUST-0108,Customer 108,Consumer,North,Technology,Laptops,Laptop,1572.66,405.85,3,0.2
+ORD-10247,2023-01-14,CUST-0079,Customer 079,Home Office,West,Furniture,Tables,Side Table,314.48,32.58,4,0.15
+ORD-10091,2023-02-02,CUST-0117,Customer 117,Consumer,North,Technology,Printers,Inkjet Printer,488.24,88.1,1,0.0
+ORD-10115,2025-12-09,CUST-0090,Customer 090,Corporate,North,Technology,Accessories,USB Cable,3322.41,873.7,5,0.1
+ORD-10289,2023-03-06,CUST-0043,Customer 043,Consumer,North,Technology,Printers,Laser Printer,3382.28,312.27,7,0.05
+ORD-10008,2024-04-15,CUST-0041,Customer 041,Consumer,South,Technology,Printers,Laser Printer,666.91,115.18,1,0.2
+ORD-10370,2025-03-26,CUST-0089,Customer 089,Consumer,East,Technology,Laptops,Laptop,1666.75,210.59,4,0.2
+ORD-10230,2023-04-20,CUST-0101,Customer 101,Corporate,South,Technology,Printers,Inkjet Printer,549.13,142.59,2,0.15
+ORD-10078,2024-12-29,CUST-0035,Customer 035,Corporate,South,Office Supplies,Labels,File Labels,20.84,1.08,3,0.2
+ORD-10284,2025-03-08,CUST-0072,Customer 072,Home Office,West,Furniture,Bookcases,Wood Bookcase,302.34,-18.43,2,0.1
+ORD-10286,2023-07-31,CUST-0116,Customer 116,Consumer,South,Technology,Phones,Desk Phone,1094.62,151.46,2,0.0
+ORD-10126,2025-02-18,CUST-0033,Customer 033,Home Office,West,Technology,Accessories,Wireless Mouse,1169.35,181.64,5,0.1
+ORD-10421,2024-02-05,CUST-0105,Customer 105,Home Office,South,Furniture,Chairs,Office Chair,892.21,10.11,5,0.15
+ORD-10166,2024-09-07,CUST-0032,Customer 032,Corporate,East,Furniture,Tables,Meeting Table,886.85,37.99,6,0.3
+ORD-10224,2025-03-15,CUST-0027,Customer 027,Corporate,North,Furniture,Chairs,Visitor Chair,902.09,119.71,4,0.2
+ORD-10273,2025-04-17,CUST-0052,Customer 052,Home Office,West,Office Supplies,Labels,Shipping Labels,245.6,44.12,5,0.15
+ORD-10169,2023-03-17,CUST-0097,Customer 097,Corporate,North,Furniture,Chairs,Office Chair,761.62,96.28,4,0.0
+ORD-10053,2023-01-22,CUST-0062,Customer 062,Corporate,West,Technology,Laptops,Laptop,1328.18,263.1,4,0.2
+ORD-10034,2023-06-25,CUST-0041,Customer 041,Corporate,North,Technology,Accessories,Wireless Mouse,1463.33,243.42,5,0.1
+ORD-10236,2023-08-24,CUST-0055,Customer 055,Consumer,West,Technology,Laptops,Laptop Bag,1173.24,210.0,2,0.05
+ORD-10360,2024-01-13,CUST-0097,Customer 097,Consumer,North,Technology,Printers,Laser Printer,569.68,81.83,1,0.15
+ORD-10178,2024-01-18,CUST-0015,Customer 015,Corporate,West,Furniture,Bookcases,Wood Bookcase,1914.85,19.3,8,0.3
+ORD-10305,2023-12-20,CUST-0054,Customer 054,Consumer,West,Office Supplies,Pens,Gel Pen,41.22,8.38,2,0.0
+ORD-10248,2025-05-16,CUST-0002,Customer 002,Consumer,South,Technology,Printers,Printer Ink,1378.48,330.16,3,0.1
+ORD-10140,2025-02-25,CUST-0005,Customer 005,Consumer,East,Office Supplies,Labels,File Labels,320.95,37.28,8,0.0
+ORD-10279,2023-12-11,CUST-0057,Customer 057,Consumer,West,Furniture,Storage,Drawer Unit,267.46,41.0,2,0.1
+ORD-10415,2023-07-29,CUST-0027,Customer 027,Home Office,East,Office Supplies,Binders,Folder,55.85,15.61,1,0.15
+ORD-10293,2025-05-26,CUST-0038,Customer 038,Corporate,North,Technology,Accessories,USB Cable,2335.23,391.74,4,0.2
+ORD-10072,2023-10-05,CUST-0063,Customer 063,Home Office,East,Furniture,Chairs,Ergonomic Chair,225.97,34.98,3,0.1
+ORD-10396,2025-04-28,CUST-0112,Customer 112,Home Office,North,Furniture,Storage,Storage Box,683.83,46.01,2,0.1
+ORD-10289,2025-07-27,CUST-0017,Customer 017,Corporate,East,Office Supplies,Pens,Ballpoint Pen,116.7,23.96,7,0.1
+ORD-10067,2023-04-10,CUST-0089,Customer 089,Home Office,East,Technology,Phones,Phone Case,266.87,17.62,8,0.15
+ORD-10119,2023-11-22,CUST-0097,Customer 097,Corporate,North,Furniture,Chairs,Visitor Chair,1131.36,131.22,6,0.05
+ORD-10216,2023-07-14,CUST-0111,Customer 111,Home Office,South,Technology,Accessories,Wireless Mouse,282.22,23.03,2,0.0
+ORD-10328,2025-09-05,CUST-0018,Customer 018,Home Office,South,Technology,Accessories,Wireless Mouse,1195.95,117.85,2,0.1
+ORD-10044,2023-05-21,CUST-0028,Customer 028,Consumer,South,Office Supplies,Paper,Card Stock,145.32,25.94,3,0.05
+ORD-10398,2023-09-10,CUST-0037,Customer 037,Home Office,North,Office Supplies,Labels,File Labels,165.22,44.01,7,0.0
+ORD-10036,2024-09-09,CUST-0077,Customer 077,Home Office,North,Technology,Accessories,Keyboard,1885.94,329.6,7,0.05
+ORD-10030,2025-01-09,CUST-0006,Customer 006,Corporate,East,Furniture,Tables,Meeting Table,2434.69,-142.16,7,0.0
+ORD-10079,2025-10-23,CUST-0104,Customer 104,Home Office,East,Furniture,Storage,Drawer Unit,1748.57,-111.21,7,0.1
+ORD-10158,2025-03-11,CUST-0008,Customer 008,Home Office,South,Office Supplies,Paper,Sticky Notes,45.62,10.66,7,0.0
+ORD-10137,2023-09-02,CUST-0112,Customer 112,Home Office,North,Technology,Accessories,Keyboard,117.85,11.5,1,0.3
+ORD-10085,2023-03-02,CUST-0073,Customer 073,Corporate,South,Furniture,Storage,Filing Cabinet,829.64,17.52,2,0.15
+ORD-10018,2024-06-06,CUST-0110,Customer 110,Home Office,West,Technology,Phones,Smartphone,54.0,7.49,1,0.15
+ORD-10023,2024-04-04,CUST-0067,Customer 067,Corporate,North,Furniture,Tables,Meeting Table,275.45,-22.9,6,0.2
+ORD-10302,2025-08-10,CUST-0048,Customer 048,Corporate,South,Furniture,Bookcases,Metal Bookcase,38.12,5.21,2,0.2
+ORD-10377,2024-05-17,CUST-0109,Customer 109,Home Office,East,Technology,Phones,Desk Phone,228.87,61.84,1,0.0
+ORD-10211,2023-08-01,CUST-0067,Customer 067,Home Office,East,Technology,Accessories,Wireless Mouse,6235.47,559.42,8,0.1
+ORD-10149,2025-07-27,CUST-0031,Customer 031,Corporate,East,Office Supplies,Paper,Card Stock,52.42,16.74,2,0.2
+ORD-10208,2025-03-15,CUST-0041,Customer 041,Consumer,East,Office Supplies,Pens,Marker Set,113.99,18.79,8,0.2
+ORD-10438,2024-03-01,CUST-0107,Customer 107,Corporate,South,Furniture,Bookcases,Metal Bookcase,285.31,38.26,5,0.1
+ORD-10281,2023-07-06,CUST-0096,Customer 096,Consumer,North,Office Supplies,Binders,Folder,148.25,26.9,7,0.05
+ORD-10043,2025-08-04,CUST-0083,Customer 083,Home Office,East,Technology,Accessories,USB Cable,75.01,18.04,1,0.05
+ORD-10293,2023-06-03,CUST-0119,Customer 119,Corporate,West,Technology,Phones,Smartphone,5278.58,504.72,8,0.1
+ORD-10125,2025-10-13,CUST-0079,Customer 079,Home Office,East,Technology,Printers,Printer Ink,1110.1,177.96,7,0.1
+ORD-10195,2025-10-18,CUST-0003,Customer 003,Home Office,East,Furniture,Storage,Storage Box,137.4,29.97,2,0.2
+ORD-10241,2025-09-09,CUST-0104,Customer 104,Home Office,East,Office Supplies,Labels,File Labels,153.17,19.92,6,0.05
+ORD-10198,2024-04-21,CUST-0103,Customer 103,Corporate,South,Technology,Phones,Smartphone,1032.84,240.46,4,0.0
+ORD-10252,2023-12-27,CUST-0104,Customer 104,Home Office,East,Technology,Laptops,Laptop Bag,3958.72,683.76,6,0.2
+ORD-10367,2023-12-26,CUST-0044,Customer 044,Consumer,East,Furniture,Chairs,Office Chair,125.03,14.57,1,0.0
+ORD-10172,2023-05-02,CUST-0013,Customer 013,Corporate,East,Technology,Accessories,Keyboard,2107.71,326.1,3,0.0
+ORD-10301,2023-10-07,CUST-0086,Customer 086,Consumer,West,Technology,Printers,Printer Ink,3320.98,742.69,8,0.3
+ORD-10308,2024-09-20,CUST-0024,Customer 024,Corporate,South,Office Supplies,Pens,Ballpoint Pen,193.8,39.95,3,0.15
+ORD-10228,2023-08-02,CUST-0043,Customer 043,Consumer,East,Furniture,Tables,Meeting Table,983.08,132.13,2,0.0
+ORD-10193,2024-03-05,CUST-0064,Customer 064,Corporate,West,Technology,Phones,Desk Phone,3032.98,644.2,5,0.15
+ORD-10192,2023-07-27,CUST-0114,Customer 114,Consumer,North,Furniture,Tables,Work Table,3066.96,-169.84,8,0.1
+ORD-10209,2023-07-10,CUST-0025,Customer 025,Home Office,East,Furniture,Storage,Drawer Unit,283.68,-17.51,1,0.15
+ORD-10320,2024-07-30,CUST-0085,Customer 085,Home Office,West,Furniture,Tables,Work Table,283.84,16.13,1,0.0
+ORD-10135,2024-02-13,CUST-0085,Customer 085,Consumer,West,Technology,Phones,Smartphone,1750.25,247.96,3,0.0
+ORD-10341,2024-01-14,CUST-0090,Customer 090,Consumer,North,Furniture,Storage,Filing Cabinet,417.19,40.2,3,0.05
+ORD-10120,2024-12-05,CUST-0074,Customer 074,Corporate,East,Office Supplies,Labels,Sticker Labels,223.84,70.91,4,0.15
+ORD-10040,2023-06-11,CUST-0055,Customer 055,Home Office,West,Furniture,Chairs,Visitor Chair,1092.83,190.7,3,0.05
+ORD-10266,2024-02-18,CUST-0036,Customer 036,Corporate,North,Office Supplies,Binders,Document Wallet,324.86,48.03,5,0.0
+ORD-10444,2025-12-06,CUST-0037,Customer 037,Home Office,East,Furniture,Chairs,Ergonomic Chair,906.63,90.72,3,0.0
+ORD-10202,2025-04-21,CUST-0005,Customer 005,Corporate,South,Furniture,Storage,Drawer Unit,1680.02,169.1,8,0.15
+ORD-10116,2023-04-11,CUST-0112,Customer 112,Consumer,East,Office Supplies,Labels,File Labels,138.45,34.14,6,0.1
+ORD-10028,2025-06-26,CUST-0106,Customer 106,Home Office,South,Furniture,Bookcases,Compact Shelf,374.0,55.7,7,0.15
+ORD-10101,2023-05-15,CUST-0091,Customer 091,Corporate,East,Furniture,Storage,Storage Box,440.09,29.07,1,0.0
+ORD-10176,2025-08-08,CUST-0045,Customer 045,Consumer,East,Office Supplies,Labels,Sticker Labels,68.21,14.46,2,0.15
+ORD-10262,2023-07-05,CUST-0053,Customer 053,Consumer,North,Furniture,Chairs,Ergonomic Chair,279.95,37.14,1,0.05
+ORD-10436,2025-08-28,CUST-0049,Customer 049,Corporate,West,Technology,Accessories,Keyboard,154.56,36.96,1,0.3
+ORD-10055,2024-05-31,CUST-0088,Customer 088,Corporate,North,Technology,Printers,Laser Printer,3379.49,619.81,7,0.1
+ORD-10438,2024-11-19,CUST-0104,Customer 104,Home Office,West,Furniture,Bookcases,Metal Bookcase,2265.99,364.24,5,0.05
+ORD-10417,2024-10-16,CUST-0074,Customer 074,Consumer,East,Office Supplies,Binders,Document Wallet,18.9,3.98,1,0.15
+ORD-10371,2024-03-31,CUST-0034,Customer 034,Home Office,South,Office Supplies,Labels,Sticker Labels,324.34,22.18,6,0.2
+ORD-10240,2024-11-18,CUST-0016,Customer 016,Consumer,North,Office Supplies,Paper,A4 Paper,187.9,33.87,6,0.1
+ORD-10234,2025-08-25,CUST-0073,Customer 073,Consumer,East,Technology,Phones,Phone Case,3249.25,335.53,7,0.05
+ORD-10402,2024-01-05,CUST-0063,Customer 063,Consumer,South,Technology,Printers,Laser Printer,852.83,194.47,3,0.05
+ORD-10426,2025-06-07,CUST-0097,Customer 097,Home Office,South,Office Supplies,Labels,File Labels,32.87,10.3,7,0.05
+ORD-10023,2023-02-06,CUST-0106,Customer 106,Corporate,East,Office Supplies,Paper,Card Stock,105.37,10.55,4,0.0
+ORD-10116,2025-07-22,CUST-0003,Customer 003,Consumer,South,Office Supplies,Pens,Marker Set,85.56,24.76,3,0.05
+ORD-10304,2024-03-08,CUST-0007,Customer 007,Consumer,North,Office Supplies,Paper,Card Stock,162.65,31.93,3,0.15
+ORD-10338,2023-02-10,CUST-0054,Customer 054,Consumer,East,Technology,Phones,Desk Phone,2718.69,317.78,8,0.05
+ORD-10183,2023-10-08,CUST-0026,Customer 026,Home Office,West,Furniture,Chairs,Visitor Chair,634.7,-10.05,2,0.2
+ORD-10293,2024-08-27,CUST-0107,Customer 107,Home Office,West,Technology,Phones,Phone Case,6243.87,476.64,8,0.05
+ORD-10020,2023-11-02,CUST-0112,Customer 112,Corporate,East,Technology,Phones,Phone Case,1470.03,182.19,2,0.1
+ORD-10375,2024-10-02,CUST-0113,Customer 113,Consumer,East,Furniture,Chairs,Office Chair,77.79,3.98,1,0.1
+ORD-10067,2024-12-02,CUST-0015,Customer 015,Home Office,North,Technology,Phones,Desk Phone,5158.78,1165.17,7,0.15
+ORD-10429,2023-11-23,CUST-0113,Customer 113,Home Office,South,Technology,Printers,Printer Ink,4943.48,1096.04,8,0.15
+ORD-10289,2025-09-16,CUST-0093,Customer 093,Consumer,East,Furniture,Chairs,Ergonomic Chair,815.22,43.74,8,0.3
+ORD-10005,2025-11-29,CUST-0007,Customer 007,Home Office,South,Office Supplies,Paper,Sticky Notes,197.71,67.64,4,0.05
+ORD-10418,2025-11-01,CUST-0052,Customer 052,Consumer,North,Furniture,Storage,Storage Box,313.03,-5.52,2,0.1
+ORD-10000,2025-07-29,CUST-0071,Customer 071,Consumer,East,Furniture,Storage,Storage Box,431.08,6.39,8,0.3
+ORD-10242,2025-11-07,CUST-0077,Customer 077,Home Office,East,Office Supplies,Binders,Document Wallet,47.37,13.07,8,0.05
+ORD-10084,2025-07-15,CUST-0115,Customer 115,Corporate,South,Technology,Phones,Phone Case,96.92,17.51,4,0.1
+ORD-10212,2025-04-18,CUST-0097,Customer 097,Consumer,North,Technology,Laptops,Laptop Bag,642.94,148.39,4,0.15
+ORD-10354,2025-07-11,CUST-0023,Customer 023,Home Office,South,Furniture,Tables,Meeting Table,34.65,2.17,1,0.2
+ORD-10231,2023-09-20,CUST-0038,Customer 038,Consumer,South,Technology,Printers,Printer Ink,1957.6,387.98,6,0.3
+ORD-10344,2025-04-25,CUST-0118,Customer 118,Consumer,South,Office Supplies,Pens,Gel Pen,292.65,73.68,6,0.05
+ORD-10146,2025-10-28,CUST-0069,Customer 069,Corporate,North,Office Supplies,Pens,Gel Pen,66.44,18.86,2,0.3
+ORD-10353,2025-12-06,CUST-0008,Customer 008,Corporate,South,Technology,Phones,Desk Phone,203.58,55.47,3,0.05
+ORD-10213,2023-03-08,CUST-0050,Customer 050,Home Office,East,Furniture,Storage,Storage Box,810.35,79.7,4,0.3
+ORD-10397,2023-04-21,CUST-0026,Customer 026,Home Office,South,Technology,Laptops,Laptop,4206.92,501.73,8,0.3
+ORD-10299,2024-08-25,CUST-0021,Customer 021,Corporate,North,Furniture,Tables,Side Table,175.82,-0.84,2,0.15
+ORD-10281,2024-11-07,CUST-0074,Customer 074,Corporate,North,Furniture,Tables,Work Table,643.66,62.77,3,0.3
+ORD-10169,2024-10-12,CUST-0043,Customer 043,Corporate,East,Office Supplies,Binders,Ring Binder,75.41,7.53,2,0.15
+ORD-10164,2024-03-23,CUST-0088,Customer 088,Corporate,North,Office Supplies,Labels,Sticker Labels,14.52,4.41,1,0.3
+ORD-10085,2025-03-01,CUST-0013,Customer 013,Home Office,North,Furniture,Bookcases,Wood Bookcase,1426.64,-38.93,6,0.1
+ORD-10351,2023-05-15,CUST-0096,Customer 096,Consumer,North,Technology,Accessories,Keyboard,3705.41,743.88,7,0.3
+ORD-10230,2025-07-29,CUST-0050,Customer 050,Home Office,West,Office Supplies,Pens,Ballpoint Pen,43.3,5.52,2,0.0
+ORD-10257,2025-06-05,CUST-0119,Customer 119,Consumer,East,Furniture,Chairs,Ergonomic Chair,459.04,50.49,2,0.3
+ORD-10434,2024-09-09,CUST-0103,Customer 103,Home Office,East,Office Supplies,Paper,Sticky Notes,33.47,5.46,8,0.05
+ORD-10371,2023-10-23,CUST-0095,Customer 095,Corporate,South,Furniture,Bookcases,Wood Bookcase,53.79,-3.91,3,0.2
+ORD-10281,2025-04-25,CUST-0097,Customer 097,Corporate,North,Office Supplies,Binders,Ring Binder,48.9,3.04,3,0.05
+ORD-10035,2024-08-18,CUST-0080,Customer 080,Consumer,East,Office Supplies,Paper,Sticky Notes,137.2,9.76,2,0.1
+ORD-10113,2025-09-22,CUST-0101,Customer 101,Home Office,West,Furniture,Bookcases,Compact Shelf,419.17,-14.64,5,0.1
+ORD-10430,2024-07-20,CUST-0011,Customer 011,Corporate,South,Furniture,Tables,Side Table,1307.7,-70.7,6,0.1
+ORD-10282,2024-02-07,CUST-0005,Customer 005,Corporate,West,Furniture,Chairs,Visitor Chair,684.48,100.03,2,0.2
+ORD-10314,2023-11-01,CUST-0104,Customer 104,Home Office,South,Furniture,Storage,Storage Box,1172.43,144.41,5,0.1
+ORD-10389,2025-11-18,CUST-0029,Customer 029,Corporate,South,Technology,Printers,Inkjet Printer,1483.6,330.8,3,0.05
+ORD-10165,2023-05-09,CUST-0084,Customer 084,Consumer,East,Furniture,Bookcases,Wood Bookcase,228.3,11.73,1,0.15
+ORD-10180,2024-06-23,CUST-0052,Customer 052,Corporate,West,Office Supplies,Binders,Folder,376.13,36.44,7,0.2
+ORD-10418,2025-09-14,CUST-0092,Customer 092,Consumer,South,Office Supplies,Paper,Card Stock,113.76,17.04,3,0.1
+ORD-10068,2025-04-29,CUST-0021,Customer 021,Home Office,North,Furniture,Chairs,Ergonomic Chair,2064.34,-165.79,8,0.15
+ORD-10043,2023-10-28,CUST-0037,Customer 037,Consumer,West,Technology,Accessories,Wireless Mouse,1001.83,49.53,3,0.3
+ORD-10175,2025-08-23,CUST-0088,Customer 088,Corporate,North,Furniture,Tables,Work Table,2669.41,211.54,7,0.05
+ORD-10314,2024-04-15,CUST-0061,Customer 061,Home Office,North,Furniture,Storage,Storage Box,379.26,-25.19,2,0.3
+ORD-10215,2025-12-24,CUST-0067,Customer 067,Corporate,North,Office Supplies,Paper,A4 Paper,352.51,86.28,8,0.0
+ORD-10119,2025-12-21,CUST-0099,Customer 099,Consumer,East,Furniture,Tables,Meeting Table,1990.47,43.53,7,0.3
+ORD-10079,2025-04-16,CUST-0014,Customer 014,Corporate,East,Furniture,Tables,Work Table,53.59,7.67,1,0.3
+ORD-10286,2024-06-19,CUST-0048,Customer 048,Home Office,West,Office Supplies,Labels,Sticker Labels,188.11,35.84,6,0.05
+ORD-10109,2024-06-03,CUST-0013,Customer 013,Home Office,West,Furniture,Bookcases,Compact Shelf,2108.96,287.47,7,0.3
+ORD-10113,2024-11-24,CUST-0034,Customer 034,Corporate,North,Office Supplies,Paper,A4 Paper,60.55,4.37,7,0.05
+ORD-10411,2023-03-19,CUST-0085,Customer 085,Home Office,East,Office Supplies,Labels,File Labels,359.89,38.26,5,0.05
+ORD-10202,2024-02-03,CUST-0086,Customer 086,Corporate,South,Technology,Accessories,Keyboard,1752.1,163.22,3,0.05
+ORD-10232,2025-11-26,CUST-0025,Customer 025,Corporate,North,Technology,Phones,Smartphone,2971.67,783.83,5,0.1
+ORD-10406,2024-06-18,CUST-0105,Customer 105,Home Office,East,Technology,Printers,Printer Ink,1027.6,247.23,2,0.0
+ORD-10324,2025-06-25,CUST-0049,Customer 049,Consumer,South,Furniture,Storage,Storage Box,1153.19,62.54,6,0.2
+ORD-10091,2024-10-08,CUST-0120,Customer 120,Corporate,East,Furniture,Bookcases,Compact Shelf,124.45,20.99,1,0.15
+ORD-10182,2024-12-25,CUST-0080,Customer 080,Consumer,North,Technology,Laptops,Laptop,1661.85,186.9,4,0.1
+ORD-10294,2023-09-03,CUST-0113,Customer 113,Corporate,West,Technology,Printers,Printer Ink,589.66,82.62,1,0.15
+ORD-10440,2024-01-10,CUST-0051,Customer 051,Home Office,South,Office Supplies,Pens,Marker Set,146.23,27.29,4,0.15
+ORD-10121,2025-07-25,CUST-0034,Customer 034,Corporate,West,Technology,Printers,Laser Printer,31.81,4.56,1,0.1
+ORD-10351,2024-12-03,CUST-0074,Customer 074,Consumer,North,Furniture,Tables,Meeting Table,2120.24,-77.5,7,0.15
+ORD-10322,2024-07-06,CUST-0109,Customer 109,Home Office,East,Technology,Printers,Laser Printer,610.45,70.4,4,0.0
+ORD-10133,2025-09-23,CUST-0043,Customer 043,Corporate,East,Furniture,Bookcases,Compact Shelf,316.31,35.64,1,0.1
+ORD-10145,2024-06-11,CUST-0100,Customer 100,Corporate,East,Furniture,Chairs,Ergonomic Chair,553.92,59.67,2,0.2
+ORD-10292,2025-11-11,CUST-0079,Customer 079,Corporate,North,Furniture,Storage,Storage Box,1613.3,343.52,7,0.05
+ORD-10382,2023-06-12,CUST-0047,Customer 047,Home Office,West,Technology,Laptops,Laptop,1269.53,158.44,6,0.3
+ORD-10032,2025-04-27,CUST-0013,Customer 013,Corporate,North,Technology,Accessories,USB Cable,1389.78,271.93,3,0.3
+ORD-10064,2023-02-23,CUST-0081,Customer 081,Consumer,South,Furniture,Chairs,Office Chair,256.99,-3.84,5,0.15
+ORD-10302,2023-02-28,CUST-0023,Customer 023,Home Office,West,Technology,Laptops,Laptop Stand,2776.28,413.58,8,0.2
+ORD-10417,2025-06-09,CUST-0067,Customer 067,Consumer,East,Office Supplies,Pens,Marker Set,262.55,11.63,8,0.1
+ORD-10191,2024-08-10,CUST-0071,Customer 071,Consumer,West,Furniture,Chairs,Visitor Chair,1693.15,164.11,8,0.15
+ORD-10355,2025-06-14,CUST-0104,Customer 104,Home Office,East,Furniture,Tables,Work Table,616.83,80.41,7,0.3
+ORD-10096,2024-08-06,CUST-0063,Customer 063,Corporate,North,Office Supplies,Pens,Marker Set,68.85,15.55,4,0.3
+ORD-10215,2023-11-08,CUST-0044,Customer 044,Corporate,West,Technology,Phones,Smartphone,543.7,68.81,2,0.0
+ORD-10128,2025-01-30,CUST-0108,Customer 108,Corporate,North,Furniture,Chairs,Ergonomic Chair,810.54,45.66,2,0.15
+ORD-10199,2023-09-07,CUST-0061,Customer 061,Home Office,East,Office Supplies,Binders,Folder,98.2,30.48,8,0.3
+ORD-10222,2024-10-23,CUST-0082,Customer 082,Corporate,North,Technology,Phones,Phone Case,493.3,124.67,2,0.0
+ORD-10080,2023-12-09,CUST-0032,Customer 032,Corporate,North,Furniture,Chairs,Ergonomic Chair,136.53,-6.08,4,0.15
+ORD-10387,2024-11-24,CUST-0083,Customer 083,Corporate,West,Office Supplies,Paper,A4 Paper,363.29,77.49,6,0.05
+ORD-10278,2024-01-31,CUST-0024,Customer 024,Corporate,East,Technology,Printers,Laser Printer,586.46,69.76,3,0.2
+ORD-10009,2025-08-17,CUST-0024,Customer 024,Home Office,East,Furniture,Tables,Work Table,1053.97,115.99,3,0.15
+ORD-10049,2024-05-04,CUST-0015,Customer 015,Home Office,North,Furniture,Chairs,Visitor Chair,2313.85,44.01,7,0.05
+ORD-10302,2023-03-31,CUST-0090,Customer 090,Corporate,North,Technology,Accessories,USB Cable,332.29,70.77,4,0.3
+ORD-10212,2025-01-20,CUST-0114,Customer 114,Corporate,North,Technology,Phones,Smartphone,2035.85,460.28,4,0.15
+ORD-10098,2024-06-28,CUST-0025,Customer 025,Home Office,South,Office Supplies,Paper,Card Stock,30.14,5.71,2,0.2
+ORD-10281,2024-01-02,CUST-0024,Customer 024,Corporate,East,Office Supplies,Labels,Sticker Labels,76.45,5.03,2,0.3
+ORD-10123,2023-11-20,CUST-0078,Customer 078,Home Office,South,Office Supplies,Labels,File Labels,346.28,87.83,6,0.15
+ORD-10003,2025-02-07,CUST-0039,Customer 039,Corporate,South,Office Supplies,Pens,Marker Set,422.3,143.22,8,0.1
+ORD-10135,2024-03-15,CUST-0018,Customer 018,Corporate,South,Furniture,Chairs,Visitor Chair,1061.64,-93.34,5,0.2
+ORD-10359,2024-04-22,CUST-0089,Customer 089,Home Office,North,Furniture,Bookcases,Wood Bookcase,783.53,-26.3,7,0.1
+ORD-10382,2024-09-07,CUST-0030,Customer 030,Home Office,North,Technology,Printers,Inkjet Printer,706.89,105.46,1,0.15
+ORD-10228,2025-02-22,CUST-0051,Customer 051,Home Office,North,Technology,Laptops,Laptop Bag,213.08,19.15,1,0.3
+ORD-10396,2024-03-30,CUST-0056,Customer 056,Home Office,South,Furniture,Bookcases,Metal Bookcase,178.86,0.72,3,0.0
+ORD-10165,2023-10-04,CUST-0056,Customer 056,Home Office,North,Furniture,Tables,Meeting Table,559.23,-20.55,7,0.3
+ORD-10411,2023-08-19,CUST-0106,Customer 106,Corporate,South,Office Supplies,Labels,File Labels,289.93,44.91,6,0.0
+ORD-10426,2025-06-21,CUST-0112,Customer 112,Corporate,North,Technology,Accessories,USB Cable,678.27,38.41,6,0.3
+ORD-10318,2024-12-04,CUST-0062,Customer 062,Home Office,South,Office Supplies,Paper,Sticky Notes,453.88,56.0,8,0.05
+ORD-10338,2023-02-07,CUST-0050,Customer 050,Corporate,East,Furniture,Chairs,Ergonomic Chair,314.1,37.89,3,0.1
+ORD-10095,2023-08-09,CUST-0012,Customer 012,Consumer,West,Technology,Laptops,Laptop Bag,1590.91,414.87,7,0.0
+ORD-10141,2023-02-14,CUST-0065,Customer 065,Consumer,East,Technology,Accessories,Keyboard,1425.93,296.56,5,0.1
+ORD-10351,2025-03-03,CUST-0081,Customer 081,Consumer,West,Technology,Laptops,Laptop,680.53,83.13,3,0.3
+ORD-10441,2024-05-07,CUST-0026,Customer 026,Consumer,East,Office Supplies,Binders,Folder,210.4,52.81,5,0.05
+ORD-10391,2025-12-08,CUST-0004,Customer 004,Corporate,West,Technology,Printers,Inkjet Printer,908.43,106.13,3,0.0
+ORD-10313,2025-04-22,CUST-0073,Customer 073,Consumer,South,Furniture,Storage,Drawer Unit,551.04,63.83,5,0.0
+ORD-10251,2024-04-17,CUST-0050,Customer 050,Corporate,South,Office Supplies,Paper,Sticky Notes,65.89,5.61,2,0.2
+ORD-10033,2023-12-02,CUST-0027,Customer 027,Consumer,West,Technology,Accessories,USB Cable,4129.13,455.83,7,0.15
+ORD-10304,2025-09-30,CUST-0074,Customer 074,Home Office,North,Office Supplies,Pens,Marker Set,168.02,53.37,4,0.15
+ORD-10097,2025-12-02,CUST-0007,Customer 007,Corporate,West,Technology,Printers,Laser Printer,555.14,29.74,1,0.3
+ORD-10369,2025-03-26,CUST-0012,Customer 012,Home Office,North,Furniture,Bookcases,Metal Bookcase,754.33,36.47,3,0.2
+ORD-10354,2024-01-04,CUST-0042,Customer 042,Home Office,South,Office Supplies,Binders,Folder,183.2,7.84,7,0.3
+ORD-10281,2023-09-11,CUST-0049,Customer 049,Corporate,North,Technology,Phones,Phone Case,3246.95,662.14,8,0.3
+ORD-10060,2023-12-16,CUST-0024,Customer 024,Consumer,South,Furniture,Tables,Work Table,976.81,213.55,3,0.1
+ORD-10232,2023-01-08,CUST-0061,Customer 061,Corporate,West,Office Supplies,Pens,Ballpoint Pen,415.88,85.95,8,0.2
+ORD-10437,2023-06-12,CUST-0019,Customer 019,Consumer,East,Office Supplies,Paper,A4 Paper,331.85,51.34,5,0.0
+ORD-10233,2024-11-09,CUST-0023,Customer 023,Home Office,East,Technology,Phones,Smartphone,4383.14,806.57,7,0.3
+ORD-10140,2023-03-15,CUST-0111,Customer 111,Corporate,West,Technology,Laptops,Laptop Stand,3889.63,283.89,6,0.2
+ORD-10147,2025-12-10,CUST-0091,Customer 091,Corporate,East,Technology,Accessories,Keyboard,120.64,21.32,1,0.0
+ORD-10000,2024-06-15,CUST-0025,Customer 025,Consumer,North,Office Supplies,Pens,Ballpoint Pen,307.16,40.83,8,0.05
+ORD-10103,2025-08-10,CUST-0082,Customer 082,Home Office,East,Office Supplies,Paper,Card Stock,123.46,12.94,4,0.1
+ORD-10099,2024-06-05,CUST-0023,Customer 023,Corporate,East,Technology,Laptops,Laptop Stand,3550.38,748.28,6,0.15
+ORD-10380,2025-09-08,CUST-0119,Customer 119,Consumer,East,Furniture,Chairs,Visitor Chair,770.53,36.98,3,0.2
+ORD-10273,2024-10-08,CUST-0081,Customer 081,Consumer,West,Office Supplies,Paper,A4 Paper,168.61,57.47,6,0.05
+ORD-10154,2024-01-19,CUST-0068,Customer 068,Consumer,North,Office Supplies,Paper,Sticky Notes,49.99,6.83,6,0.05
+ORD-10158,2025-02-05,CUST-0068,Customer 068,Corporate,South,Technology,Accessories,USB Cable,3554.86,404.66,8,0.05
+ORD-10044,2023-07-21,CUST-0112,Customer 112,Corporate,West,Office Supplies,Binders,Ring Binder,42.74,13.01,1,0.0
+ORD-10139,2023-04-05,CUST-0016,Customer 016,Consumer,South,Technology,Laptops,Laptop,2627.98,332.28,5,0.1
+ORD-10036,2024-07-14,CUST-0022,Customer 022,Corporate,East,Technology,Phones,Phone Case,390.93,103.38,2,0.05
+ORD-10322,2025-06-27,CUST-0076,Customer 076,Home Office,West,Technology,Accessories,USB Cable,6523.05,1078.22,8,0.0
+ORD-10233,2024-12-29,CUST-0013,Customer 013,Corporate,West,Furniture,Bookcases,Wood Bookcase,727.24,125.48,2,0.05
+ORD-10015,2025-08-21,CUST-0063,Customer 063,Consumer,West,Technology,Accessories,USB Cable,2883.14,322.28,5,0.3
+ORD-10284,2023-08-20,CUST-0042,Customer 042,Home Office,North,Furniture,Storage,Filing Cabinet,449.6,72.66,3,0.2
+ORD-10220,2024-09-10,CUST-0076,Customer 076,Corporate,East,Office Supplies,Labels,File Labels,85.7,24.0,7,0.15
+ORD-10306,2024-04-28,CUST-0009,Customer 009,Consumer,West,Technology,Phones,Phone Case,1000.26,244.47,8,0.0
+ORD-10272,2024-11-01,CUST-0058,Customer 058,Corporate,West,Furniture,Chairs,Office Chair,1248.48,159.78,4,0.3
+ORD-10004,2025-07-04,CUST-0075,Customer 075,Home Office,West,Technology,Accessories,Keyboard,1465.07,306.85,6,0.15
+ORD-10302,2023-09-19,CUST-0090,Customer 090,Corporate,East,Furniture,Chairs,Ergonomic Chair,288.81,56.9,1,0.0
+ORD-10446,2025-02-22,CUST-0037,Customer 037,Home Office,South,Furniture,Storage,Filing Cabinet,842.99,17.85,4,0.15
+ORD-10403,2023-10-03,CUST-0059,Customer 059,Home Office,West,Technology,Phones,Phone Case,143.45,13.3,1,0.05
+ORD-10137,2024-01-04,CUST-0065,Customer 065,Corporate,East,Furniture,Storage,Drawer Unit,1026.85,196.1,8,0.0
+ORD-10398,2023-03-10,CUST-0097,Customer 097,Corporate,West,Technology,Printers,Printer Ink,706.91,156.81,6,0.05
+ORD-10175,2025-11-24,CUST-0007,Customer 007,Home Office,North,Technology,Phones,Smartphone,3230.25,557.06,8,0.3
+ORD-10372,2025-08-18,CUST-0039,Customer 039,Home Office,East,Furniture,Storage,Drawer Unit,2597.83,346.88,6,0.1
+ORD-10039,2023-05-06,CUST-0065,Customer 065,Corporate,East,Office Supplies,Labels,Sticker Labels,51.99,2.1,3,0.3
+ORD-10133,2023-09-29,CUST-0023,Customer 023,Home Office,South,Office Supplies,Pens,Marker Set,62.48,8.81,5,0.2
+ORD-10225,2025-09-20,CUST-0085,Customer 085,Home Office,South,Technology,Phones,Desk Phone,1481.43,320.63,2,0.15
+ORD-10272,2024-03-07,CUST-0119,Customer 119,Consumer,West,Office Supplies,Pens,Ballpoint Pen,64.06,20.52,5,0.15
+ORD-10272,2025-03-09,CUST-0013,Customer 013,Home Office,East,Furniture,Bookcases,Wood Bookcase,2278.83,126.24,7,0.3
+ORD-10301,2025-06-03,CUST-0087,Customer 087,Consumer,East,Office Supplies,Pens,Marker Set,225.41,24.44,5,0.15
+ORD-10098,2024-01-04,CUST-0033,Customer 033,Consumer,North,Furniture,Chairs,Visitor Chair,25.74,0.84,1,0.0
+ORD-10094,2023-07-08,CUST-0103,Customer 103,Consumer,South,Technology,Accessories,Keyboard,1224.67,184.9,2,0.05
+ORD-10082,2024-06-02,CUST-0033,Customer 033,Consumer,East,Furniture,Storage,Drawer Unit,786.92,94.04,2,0.15
+ORD-10330,2023-05-08,CUST-0023,Customer 023,Corporate,North,Furniture,Storage,Filing Cabinet,410.14,89.06,1,0.0
+ORD-10254,2023-10-22,CUST-0003,Customer 003,Consumer,North,Office Supplies,Labels,Shipping Labels,20.11,5.69,2,0.0
+ORD-10432,2023-03-19,CUST-0052,Customer 052,Home Office,North,Office Supplies,Labels,File Labels,112.37,19.49,3,0.2
+ORD-10046,2024-04-07,CUST-0083,Customer 083,Corporate,East,Technology,Printers,Printer Ink,943.58,195.77,8,0.1
+ORD-10183,2023-06-14,CUST-0089,Customer 089,Corporate,North,Furniture,Bookcases,Compact Shelf,147.74,6.0,4,0.05
+ORD-10273,2025-06-15,CUST-0064,Customer 064,Corporate,North,Office Supplies,Binders,Ring Binder,41.01,9.39,1,0.15
+ORD-10379,2023-03-17,CUST-0020,Customer 020,Home Office,South,Furniture,Chairs,Ergonomic Chair,97.28,11.38,1,0.2
+ORD-10157,2023-05-28,CUST-0116,Customer 116,Consumer,West,Technology,Accessories,Wireless Mouse,306.12,53.72,1,0.3
+ORD-10205,2023-12-16,CUST-0087,Customer 087,Corporate,North,Office Supplies,Paper,A4 Paper,36.49,12.42,2,0.05
+ORD-10297,2023-10-09,CUST-0032,Customer 032,Consumer,South,Furniture,Tables,Work Table,198.79,4.82,3,0.15
+ORD-10413,2023-07-24,CUST-0089,Customer 089,Corporate,South,Office Supplies,Labels,Shipping Labels,2.56,0.35,1,0.0
+ORD-10321,2024-02-27,CUST-0012,Customer 012,Corporate,East,Technology,Laptops,Laptop Bag,3084.22,614.54,8,0.0
+ORD-10141,2025-05-07,CUST-0027,Customer 027,Consumer,South,Technology,Accessories,USB Cable,1421.24,229.54,2,0.2
+ORD-10388,2023-08-19,CUST-0104,Customer 104,Corporate,North,Technology,Printers,Laser Printer,444.93,57.01,3,0.1
+ORD-10214,2023-08-02,CUST-0042,Customer 042,Consumer,East,Office Supplies,Paper,Card Stock,126.49,28.82,3,0.0
+ORD-10074,2024-04-16,CUST-0056,Customer 056,Consumer,West,Technology,Laptops,Laptop,441.71,39.97,2,0.05
+ORD-10069,2023-12-31,CUST-0036,Customer 036,Consumer,West,Furniture,Bookcases,Wood Bookcase,2457.61,-181.72,8,0.05
+ORD-10437,2025-07-28,CUST-0071,Customer 071,Consumer,North,Furniture,Tables,Meeting Table,867.29,152.21,4,0.3
+ORD-10302,2025-04-23,CUST-0029,Customer 029,Consumer,North,Office Supplies,Labels,Shipping Labels,330.07,48.19,8,0.3
+ORD-10385,2025-05-05,CUST-0072,Customer 072,Consumer,West,Technology,Phones,Desk Phone,278.24,58.42,1,0.3
+ORD-10012,2024-03-22,CUST-0075,Customer 075,Corporate,West,Technology,Laptops,Laptop Stand,2130.07,220.4,4,0.1
+ORD-10151,2023-10-11,CUST-0005,Customer 005,Corporate,East,Office Supplies,Labels,Shipping Labels,8.85,1.02,6,0.3
+ORD-10316,2024-02-29,CUST-0060,Customer 060,Consumer,East,Office Supplies,Paper,Card Stock,318.09,41.54,6,0.3
+ORD-10107,2025-01-20,CUST-0090,Customer 090,Home Office,South,Technology,Phones,Phone Case,409.09,57.85,4,0.3
+ORD-10347,2024-10-18,CUST-0069,Customer 069,Home Office,East,Furniture,Bookcases,Compact Shelf,299.98,51.4,7,0.15
+ORD-10084,2025-07-14,CUST-0014,Customer 014,Corporate,North,Office Supplies,Pens,Gel Pen,14.98,4.84,2,0.15
+ORD-10149,2023-10-31,CUST-0003,Customer 003,Consumer,North,Furniture,Tables,Work Table,461.13,23.16,1,0.05
+ORD-10290,2023-02-15,CUST-0039,Customer 039,Consumer,East,Technology,Laptops,Laptop Stand,2514.92,465.48,6,0.3
+ORD-10364,2023-12-18,CUST-0021,Customer 021,Home Office,East,Furniture,Tables,Meeting Table,2103.19,456.6,6,0.1
+ORD-10340,2024-01-09,CUST-0005,Customer 005,Corporate,East,Technology,Accessories,USB Cable,432.83,51.06,4,0.15
+ORD-10002,2023-10-30,CUST-0020,Customer 020,Home Office,East,Furniture,Storage,Drawer Unit,199.7,41.77,3,0.15
+ORD-10347,2024-08-28,CUST-0018,Customer 018,Home Office,North,Furniture,Bookcases,Compact Shelf,998.19,144.97,3,0.1
+ORD-10142,2024-09-22,CUST-0099,Customer 099,Consumer,North,Technology,Printers,Printer Ink,1162.63,98.53,4,0.3
+ORD-10203,2023-06-21,CUST-0047,Customer 047,Consumer,West,Office Supplies,Labels,Sticker Labels,64.41,19.49,2,0.2
+ORD-10411,2025-01-27,CUST-0054,Customer 054,Corporate,East,Furniture,Bookcases,Wood Bookcase,671.52,89.25,5,0.2
+ORD-10033,2023-12-02,CUST-0043,Customer 043,Home Office,West,Office Supplies,Labels,Sticker Labels,57.95,11.79,7,0.05
+ORD-10021,2023-07-01,CUST-0063,Customer 063,Corporate,East,Technology,Printers,Printer Ink,1841.57,212.96,5,0.05
+ORD-10147,2025-10-08,CUST-0115,Customer 115,Corporate,South,Office Supplies,Labels,Shipping Labels,17.79,3.77,1,0.3
+ORD-10132,2025-10-04,CUST-0112,Customer 112,Home Office,West,Office Supplies,Binders,Ring Binder,124.33,24.83,2,0.2
+ORD-10325,2023-09-02,CUST-0054,Customer 054,Corporate,North,Furniture,Chairs,Ergonomic Chair,189.31,-11.74,3,0.3
+ORD-10409,2024-08-16,CUST-0088,Customer 088,Corporate,East,Furniture,Chairs,Visitor Chair,410.24,79.99,4,0.05
+ORD-10257,2025-01-12,CUST-0020,Customer 020,Consumer,South,Technology,Laptops,Laptop,123.11,16.49,1,0.15
+ORD-10226,2025-12-12,CUST-0105,Customer 105,Home Office,East,Office Supplies,Paper,Sticky Notes,97.89,15.54,8,0.0
+ORD-10353,2023-12-19,CUST-0055,Customer 055,Consumer,North,Office Supplies,Pens,Ballpoint Pen,24.9,8.47,2,0.05
+ORD-10341,2023-02-08,CUST-0039,Customer 039,Consumer,North,Furniture,Storage,Storage Box,1602.67,337.73,4,0.0
+ORD-10437,2023-09-11,CUST-0021,Customer 021,Home Office,South,Office Supplies,Binders,Document Wallet,25.43,3.05,4,0.3
+ORD-10109,2025-10-31,CUST-0013,Customer 013,Home Office,West,Office Supplies,Paper,A4 Paper,73.35,24.78,1,0.05
+ORD-10063,2025-01-20,CUST-0041,Customer 041,Corporate,North,Office Supplies,Binders,Folder,60.06,16.47,2,0.05
+ORD-10430,2025-11-30,CUST-0088,Customer 088,Corporate,South,Technology,Printers,Laser Printer,2562.45,402.19,5,0.0
+ORD-10202,2025-04-14,CUST-0014,Customer 014,Corporate,North,Furniture,Storage,Storage Box,729.31,168.25,2,0.1
+ORD-10062,2023-09-02,CUST-0052,Customer 052,Consumer,West,Technology,Printers,Laser Printer,1212.76,322.78,2,0.1
+ORD-10128,2025-10-19,CUST-0016,Customer 016,Corporate,West,Furniture,Bookcases,Compact Shelf,2023.03,-95.0,7,0.15
+ORD-10155,2024-04-17,CUST-0020,Customer 020,Home Office,North,Office Supplies,Binders,Ring Binder,81.71,20.73,2,0.0
+ORD-10016,2023-06-06,CUST-0098,Customer 098,Corporate,North,Office Supplies,Labels,File Labels,132.4,25.68,4,0.2
+ORD-10366,2025-02-24,CUST-0040,Customer 040,Corporate,West,Furniture,Bookcases,Metal Bookcase,257.56,-9.37,8,0.1
+ORD-10180,2023-08-13,CUST-0087,Customer 087,Corporate,East,Office Supplies,Labels,Sticker Labels,282.35,42.13,8,0.15
+ORD-10210,2023-05-06,CUST-0046,Customer 046,Corporate,North,Technology,Phones,Smartphone,1387.12,158.08,6,0.3
+ORD-10235,2024-05-15,CUST-0005,Customer 005,Home Office,West,Technology,Accessories,Keyboard,2445.59,229.9,5,0.1
+ORD-10345,2025-11-20,CUST-0089,Customer 089,Consumer,East,Furniture,Bookcases,Wood Bookcase,3353.54,-210.75,8,0.15
+ORD-10152,2025-10-14,CUST-0007,Customer 007,Home Office,West,Office Supplies,Pens,Ballpoint Pen,203.81,27.76,5,0.0
+ORD-10421,2024-04-07,CUST-0084,Customer 084,Corporate,East,Office Supplies,Paper,Card Stock,73.89,19.85,2,0.2
+ORD-10095,2025-06-05,CUST-0111,Customer 111,Home Office,West,Office Supplies,Pens,Ballpoint Pen,209.17,50.41,7,0.2
+ORD-10391,2024-03-12,CUST-0088,Customer 088,Corporate,West,Office Supplies,Labels,File Labels,44.36,4.03,7,0.05
+ORD-10076,2025-04-20,CUST-0015,Customer 015,Consumer,North,Furniture,Chairs,Visitor Chair,562.89,60.9,4,0.05
+ORD-10281,2024-05-17,CUST-0085,Customer 085,Consumer,North,Furniture,Storage,Filing Cabinet,2864.7,-17.77,7,0.1
+ORD-10429,2025-09-22,CUST-0051,Customer 051,Home Office,South,Technology,Phones,Smartphone,2812.14,689.64,6,0.15
+ORD-10380,2024-04-28,CUST-0096,Customer 096,Consumer,West,Technology,Phones,Phone Case,2067.28,283.15,5,0.1
+ORD-10162,2024-03-22,CUST-0015,Customer 015,Home Office,West,Technology,Phones,Smartphone,2795.79,199.02,4,0.2
+ORD-10339,2025-08-30,CUST-0095,Customer 095,Consumer,South,Office Supplies,Binders,Folder,198.2,11.98,3,0.0
+ORD-10130,2024-06-02,CUST-0051,Customer 051,Corporate,North,Office Supplies,Labels,File Labels,249.22,79.43,6,0.05
+ORD-10251,2024-04-27,CUST-0100,Customer 100,Corporate,West,Furniture,Tables,Work Table,3006.58,-19.32,8,0.15
+ORD-10014,2024-11-12,CUST-0089,Customer 089,Consumer,South,Office Supplies,Labels,Shipping Labels,70.67,9.05,3,0.2
+ORD-10332,2025-06-27,CUST-0107,Customer 107,Consumer,West,Office Supplies,Binders,Ring Binder,328.39,111.95,7,0.0
+ORD-10193,2024-10-16,CUST-0113,Customer 113,Home Office,South,Furniture,Storage,Drawer Unit,944.96,41.34,3,0.1
+ORD-10087,2023-02-12,CUST-0048,Customer 048,Home Office,North,Technology,Accessories,USB Cable,1349.68,255.74,8,0.15
+ORD-10105,2023-01-29,CUST-0110,Customer 110,Home Office,South,Office Supplies,Labels,File Labels,121.41,9.73,8,0.1
+ORD-10350,2024-08-02,CUST-0075,Customer 075,Home Office,West,Office Supplies,Binders,Folder,66.51,7.69,3,0.1
+ORD-10285,2023-06-25,CUST-0013,Customer 013,Consumer,North,Technology,Printers,Inkjet Printer,4475.76,929.05,6,0.15
+ORD-10297,2024-11-12,CUST-0006,Customer 006,Consumer,East,Technology,Printers,Laser Printer,25.24,5.05,1,0.15
+ORD-10446,2023-12-14,CUST-0064,Customer 064,Corporate,East,Office Supplies,Labels,File Labels,329.64,111.86,8,0.05
+ORD-10336,2025-05-30,CUST-0110,Customer 110,Home Office,West,Furniture,Bookcases,Compact Shelf,802.1,104.35,5,0.3
+ORD-10226,2023-04-19,CUST-0006,Customer 006,Corporate,West,Technology,Accessories,USB Cable,629.85,96.47,4,0.15
+ORD-10339,2025-07-26,CUST-0073,Customer 073,Home Office,South,Furniture,Chairs,Visitor Chair,185.01,28.82,3,0.05
+ORD-10191,2023-01-09,CUST-0051,Customer 051,Home Office,North,Office Supplies,Binders,Folder,16.84,4.13,2,0.1
+ORD-10318,2024-10-24,CUST-0084,Customer 084,Corporate,East,Technology,Phones,Smartphone,5413.41,1028.29,8,0.1
+ORD-10443,2023-09-22,CUST-0099,Customer 099,Corporate,North,Technology,Phones,Phone Case,1231.1,167.77,5,0.2
+ORD-10158,2023-02-12,CUST-0118,Customer 118,Home Office,South,Technology,Accessories,Wireless Mouse,1920.23,268.27,7,0.0
+ORD-10314,2025-01-05,CUST-0048,Customer 048,Consumer,West,Office Supplies,Paper,Sticky Notes,125.32,19.65,4,0.2
+ORD-10042,2025-05-22,CUST-0068,Customer 068,Corporate,West,Technology,Phones,Phone Case,3681.77,282.5,6,0.3
+ORD-10023,2025-06-14,CUST-0010,Customer 010,Home Office,North,Technology,Printers,Laser Printer,2525.56,455.63,3,0.05
+ORD-10338,2025-11-11,CUST-0095,Customer 095,Corporate,South,Furniture,Storage,Storage Box,2108.66,331.22,8,0.1
+ORD-10446,2024-01-09,CUST-0044,Customer 044,Consumer,South,Furniture,Chairs,Office Chair,969.08,48.32,7,0.15
+ORD-10336,2024-01-15,CUST-0112,Customer 112,Home Office,West,Technology,Laptops,Laptop Bag,809.15,92.52,2,0.0
+ORD-10013,2024-09-12,CUST-0110,Customer 110,Consumer,West,Office Supplies,Pens,Gel Pen,83.38,28.09,7,0.05
+ORD-10227,2023-10-25,CUST-0090,Customer 090,Corporate,West,Office Supplies,Binders,Folder,46.09,3.76,4,0.15
+ORD-10434,2023-02-10,CUST-0054,Customer 054,Corporate,East,Furniture,Tables,Work Table,2101.21,401.84,5,0.0
+ORD-10242,2023-03-17,CUST-0054,Customer 054,Consumer,West,Furniture,Storage,Filing Cabinet,314.48,-25.06,8,0.2
+ORD-10308,2024-12-11,CUST-0118,Customer 118,Home Office,West,Furniture,Storage,Storage Box,319.93,33.22,3,0.05
+ORD-10066,2023-09-26,CUST-0062,Customer 062,Consumer,South,Furniture,Storage,Filing Cabinet,1938.64,234.62,6,0.2
+ORD-10346,2023-11-17,CUST-0046,Customer 046,Consumer,South,Office Supplies,Labels,Shipping Labels,113.73,33.47,7,0.2
+ORD-10394,2025-10-28,CUST-0006,Customer 006,Home Office,East,Technology,Phones,Desk Phone,742.1,87.16,7,0.15
+ORD-10052,2023-11-06,CUST-0110,Customer 110,Home Office,North,Office Supplies,Paper,Card Stock,37.66,8.77,1,0.0
+ORD-10050,2025-11-04,CUST-0112,Customer 112,Consumer,East,Technology,Accessories,Keyboard,1416.62,301.38,2,0.1
+ORD-10366,2024-11-16,CUST-0048,Customer 048,Corporate,East,Technology,Phones,Smartphone,5939.34,796.74,8,0.15
+ORD-10226,2024-05-17,CUST-0004,Customer 004,Consumer,North,Technology,Printers,Inkjet Printer,1852.7,474.76,3,0.15
+ORD-10294,2025-11-25,CUST-0116,Customer 116,Consumer,East,Technology,Phones,Desk Phone,1919.87,418.0,6,0.15
+ORD-10105,2025-05-08,CUST-0083,Customer 083,Home Office,West,Furniture,Bookcases,Compact Shelf,114.21,-6.05,6,0.2
+ORD-10109,2024-12-08,CUST-0037,Customer 037,Consumer,East,Office Supplies,Labels,Shipping Labels,113.47,35.55,5,0.3
+ORD-10430,2025-12-03,CUST-0008,Customer 008,Corporate,East,Furniture,Tables,Work Table,251.25,57.02,1,0.1
+ORD-10365,2025-11-05,CUST-0073,Customer 073,Home Office,South,Furniture,Chairs,Office Chair,530.58,89.58,2,0.1
+ORD-10050,2024-12-18,CUST-0059,Customer 059,Consumer,West,Furniture,Bookcases,Compact Shelf,727.49,-19.84,3,0.1
+ORD-10202,2025-04-23,CUST-0100,Customer 100,Corporate,West,Technology,Phones,Smartphone,5055.41,1043.82,7,0.1
+ORD-10060,2025-05-17,CUST-0068,Customer 068,Home Office,South,Furniture,Storage,Drawer Unit,437.5,85.52,7,0.3
+ORD-10020,2025-07-21,CUST-0038,Customer 038,Home Office,South,Furniture,Chairs,Visitor Chair,473.47,-30.63,3,0.2
+ORD-10110,2023-08-30,CUST-0037,Customer 037,Consumer,West,Furniture,Bookcases,Metal Bookcase,133.72,26.71,5,0.2
+ORD-10067,2023-01-05,CUST-0078,Customer 078,Consumer,West,Technology,Laptops,Laptop,351.34,79.89,1,0.1
+ORD-10226,2025-07-10,CUST-0086,Customer 086,Home Office,East,Office Supplies,Labels,Shipping Labels,258.26,51.18,6,0.15
+ORD-10267,2023-07-01,CUST-0073,Customer 073,Consumer,West,Technology,Phones,Phone Case,2450.59,653.87,5,0.05
+ORD-10310,2025-10-26,CUST-0069,Customer 069,Corporate,West,Technology,Phones,Phone Case,1820.87,388.75,3,0.3
+ORD-10146,2023-04-03,CUST-0022,Customer 022,Consumer,South,Furniture,Chairs,Ergonomic Chair,187.71,-10.78,7,0.15
+ORD-10072,2024-06-07,CUST-0041,Customer 041,Corporate,East,Technology,Accessories,Wireless Mouse,4114.9,334.23,7,0.05
+ORD-10162,2024-06-12,CUST-0008,Customer 008,Corporate,West,Furniture,Chairs,Office Chair,981.0,22.77,4,0.2
+ORD-10064,2023-05-15,CUST-0101,Customer 101,Corporate,West,Furniture,Chairs,Ergonomic Chair,92.6,-1.96,4,0.2
+ORD-10237,2025-07-02,CUST-0105,Customer 105,Home Office,East,Technology,Accessories,USB Cable,2539.21,655.5,6,0.15
+ORD-10023,2023-12-09,CUST-0037,Customer 037,Consumer,North,Technology,Phones,Desk Phone,2466.6,590.99,5,0.1
+ORD-10349,2024-09-07,CUST-0114,Customer 114,Corporate,East,Technology,Printers,Printer Ink,1277.87,138.08,2,0.15
+ORD-10243,2025-07-16,CUST-0078,Customer 078,Consumer,North,Furniture,Tables,Side Table,1444.22,-53.74,6,0.0
+ORD-10180,2023-12-22,CUST-0016,Customer 016,Corporate,East,Furniture,Storage,Filing Cabinet,663.13,120.12,2,0.0
+ORD-10098,2025-03-03,CUST-0046,Customer 046,Consumer,East,Technology,Phones,Smartphone,1955.36,97.12,8,0.3
+ORD-10445,2024-03-28,CUST-0015,Customer 015,Corporate,West,Technology,Printers,Laser Printer,257.13,19.85,1,0.05
+ORD-10400,2023-12-16,CUST-0094,Customer 094,Corporate,South,Office Supplies,Binders,Document Wallet,19.1,5.83,3,0.1
+ORD-10140,2023-02-17,CUST-0053,Customer 053,Consumer,West,Office Supplies,Pens,Gel Pen,305.21,44.4,8,0.3
+ORD-10413,2025-10-11,CUST-0074,Customer 074,Consumer,South,Furniture,Chairs,Visitor Chair,1658.98,-44.15,4,0.1
+ORD-10171,2025-05-17,CUST-0081,Customer 081,Corporate,South,Technology,Accessories,USB Cable,939.21,165.29,3,0.0
+ORD-10228,2023-08-09,CUST-0081,Customer 081,Home Office,North,Furniture,Tables,Meeting Table,269.44,31.86,1,0.0
+ORD-10221,2023-06-25,CUST-0081,Customer 081,Consumer,North,Technology,Phones,Desk Phone,4822.94,1272.4,6,0.0
+ORD-10407,2023-04-25,CUST-0060,Customer 060,Corporate,North,Office Supplies,Paper,Sticky Notes,190.77,31.67,7,0.2
+ORD-10064,2024-11-26,CUST-0074,Customer 074,Home Office,East,Office Supplies,Paper,Sticky Notes,12.43,0.92,6,0.3
+ORD-10183,2024-12-28,CUST-0097,Customer 097,Corporate,South,Furniture,Storage,Drawer Unit,654.23,36.15,8,0.05
+ORD-10286,2023-10-29,CUST-0107,Customer 107,Consumer,West,Furniture,Bookcases,Compact Shelf,2040.07,-195.73,6,0.3
+ORD-10296,2024-12-05,CUST-0110,Customer 110,Home Office,East,Technology,Accessories,Keyboard,1993.9,367.04,4,0.3
+ORD-10319,2024-09-05,CUST-0060,Customer 060,Consumer,South,Furniture,Bookcases,Wood Bookcase,757.74,91.08,2,0.05
+ORD-10148,2025-09-11,CUST-0019,Customer 019,Corporate,South,Office Supplies,Pens,Gel Pen,499.03,103.56,7,0.1
+ORD-10090,2025-01-07,CUST-0003,Customer 003,Corporate,North,Technology,Phones,Smartphone,1039.64,149.45,4,0.05
+ORD-10319,2023-02-12,CUST-0103,Customer 103,Corporate,North,Office Supplies,Binders,Folder,67.65,21.88,2,0.1
+ORD-10300,2023-08-31,CUST-0079,Customer 079,Consumer,East,Technology,Accessories,USB Cable,1669.35,436.17,4,0.15
+ORD-10314,2023-11-01,CUST-0085,Customer 085,Consumer,South,Furniture,Tables,Work Table,1822.07,-124.02,5,0.15
+ORD-10326,2025-11-07,CUST-0052,Customer 052,Home Office,North,Furniture,Bookcases,Metal Bookcase,2461.56,158.07,8,0.15
+ORD-10068,2024-02-29,CUST-0011,Customer 011,Consumer,East,Technology,Accessories,Wireless Mouse,1188.52,108.68,4,0.2
+ORD-10195,2025-06-29,CUST-0035,Customer 035,Consumer,South,Office Supplies,Pens,Ballpoint Pen,29.95,5.55,1,0.15
+ORD-10050,2025-06-23,CUST-0030,Customer 030,Consumer,North,Technology,Laptops,Laptop Bag,542.73,91.9,2,0.2
+ORD-10437,2025-01-07,CUST-0018,Customer 018,Home Office,East,Technology,Accessories,Wireless Mouse,1724.01,370.32,4,0.3
+ORD-10443,2023-01-18,CUST-0020,Customer 020,Corporate,South,Furniture,Bookcases,Metal Bookcase,2901.45,243.86,7,0.0
+ORD-10096,2024-04-09,CUST-0109,Customer 109,Corporate,West,Office Supplies,Binders,Folder,171.06,7.09,4,0.3
+ORD-10115,2024-03-05,CUST-0044,Customer 044,Corporate,West,Furniture,Storage,Drawer Unit,208.04,30.17,1,0.3
+ORD-10443,2025-04-06,CUST-0074,Customer 074,Corporate,West,Office Supplies,Pens,Marker Set,11.57,3.65,1,0.1
+ORD-10283,2024-02-23,CUST-0087,Customer 087,Consumer,North,Furniture,Chairs,Visitor Chair,429.27,1.45,7,0.15
+ORD-10005,2025-09-27,CUST-0067,Customer 067,Consumer,East,Technology,Accessories,USB Cable,1480.37,300.55,2,0.1
+ORD-10340,2025-04-21,CUST-0091,Customer 091,Corporate,South,Furniture,Tables,Work Table,711.25,-13.08,3,0.05
+ORD-10291,2024-09-27,CUST-0043,Customer 043,Corporate,West,Office Supplies,Binders,Document Wallet,105.04,13.03,8,0.0
+ORD-10414,2025-08-05,CUST-0106,Customer 106,Consumer,West,Office Supplies,Paper,Card Stock,52.63,7.0,2,0.3
+ORD-10140,2024-05-25,CUST-0021,Customer 021,Home Office,East,Technology,Printers,Laser Printer,4890.77,1005.6,7,0.15
+ORD-10230,2023-05-17,CUST-0053,Customer 053,Consumer,East,Office Supplies,Binders,Folder,557.44,158.23,7,0.0
+ORD-10005,2024-02-29,CUST-0005,Customer 005,Corporate,North,Office Supplies,Paper,Sticky Notes,51.41,4.84,1,0.15
+ORD-10429,2023-10-07,CUST-0022,Customer 022,Consumer,North,Furniture,Storage,Filing Cabinet,1926.07,324.39,8,0.15
+ORD-10345,2023-12-29,CUST-0005,Customer 005,Home Office,South,Furniture,Chairs,Visitor Chair,2156.29,55.41,7,0.1
+ORD-10191,2025-06-24,CUST-0032,Customer 032,Consumer,South,Office Supplies,Paper,Card Stock,12.18,1.35,2,0.0
+ORD-10085,2023-07-07,CUST-0086,Customer 086,Home Office,South,Technology,Printers,Inkjet Printer,303.98,81.33,1,0.05
+ORD-10182,2023-04-01,CUST-0014,Customer 014,Corporate,South,Furniture,Chairs,Ergonomic Chair,532.72,19.67,6,0.2
+ORD-10210,2023-01-31,CUST-0028,Customer 028,Corporate,West,Furniture,Bookcases,Wood Bookcase,791.57,23.1,7,0.1
+ORD-10325,2023-07-28,CUST-0023,Customer 023,Home Office,East,Office Supplies,Binders,Folder,78.84,4.38,2,0.3
+ORD-10063,2025-09-14,CUST-0098,Customer 098,Corporate,South,Technology,Laptops,Laptop,2301.28,462.39,8,0.2
+ORD-10378,2025-05-27,CUST-0057,Customer 057,Corporate,South,Technology,Phones,Smartphone,1005.22,205.26,3,0.05
+ORD-10340,2024-07-23,CUST-0117,Customer 117,Consumer,South,Furniture,Chairs,Visitor Chair,776.45,-28.55,7,0.3
+ORD-10046,2025-02-20,CUST-0017,Customer 017,Consumer,South,Office Supplies,Pens,Ballpoint Pen,306.65,100.36,8,0.05
+ORD-10103,2024-04-28,CUST-0082,Customer 082,Corporate,West,Office Supplies,Paper,Sticky Notes,160.39,35.08,8,0.05
+ORD-10390,2023-06-13,CUST-0003,Customer 003,Corporate,West,Furniture,Storage,Filing Cabinet,568.38,95.58,3,0.15
+ORD-10240,2023-06-20,CUST-0092,Customer 092,Consumer,South,Furniture,Tables,Side Table,618.51,36.96,3,0.15
+ORD-10036,2024-01-24,CUST-0076,Customer 076,Corporate,North,Technology,Phones,Phone Case,1911.09,229.99,6,0.3
+ORD-10029,2023-09-12,CUST-0090,Customer 090,Home Office,West,Furniture,Tables,Work Table,2458.32,165.86,7,0.1
+ORD-10233,2025-05-18,CUST-0078,Customer 078,Home Office,South,Office Supplies,Binders,Ring Binder,286.8,17.23,8,0.3
+ORD-10096,2024-06-04,CUST-0117,Customer 117,Corporate,South,Technology,Accessories,USB Cable,1189.32,246.3,2,0.15
+ORD-10176,2025-05-24,CUST-0103,Customer 103,Consumer,East,Furniture,Bookcases,Compact Shelf,1824.21,-144.69,7,0.3
+ORD-10147,2024-03-05,CUST-0084,Customer 084,Home Office,West,Office Supplies,Labels,Sticker Labels,201.77,41.86,5,0.0
+ORD-10093,2023-12-16,CUST-0096,Customer 096,Consumer,East,Technology,Laptops,Laptop,505.58,90.65,3,0.15
+ORD-10389,2025-04-17,CUST-0087,Customer 087,Consumer,North,Furniture,Chairs,Visitor Chair,183.42,19.7,3,0.0
+ORD-10242,2023-05-06,CUST-0063,Customer 063,Corporate,West,Furniture,Chairs,Visitor Chair,216.58,45.02,1,0.2
+ORD-10233,2024-11-20,CUST-0001,Customer 001,Home Office,West,Furniture,Bookcases,Metal Bookcase,1356.95,270.56,4,0.0
+ORD-10338,2023-10-12,CUST-0053,Customer 053,Consumer,North,Technology,Phones,Phone Case,3643.01,690.54,5,0.15
+ORD-10243,2024-10-21,CUST-0120,Customer 120,Home Office,North,Technology,Laptops,Laptop,2596.39,436.8,6,0.3
+ORD-10426,2025-02-27,CUST-0039,Customer 039,Home Office,West,Furniture,Tables,Side Table,925.24,-67.89,3,0.3
+ORD-10167,2023-12-11,CUST-0021,Customer 021,Corporate,East,Furniture,Chairs,Ergonomic Chair,285.06,7.09,4,0.3
+ORD-10446,2024-03-27,CUST-0043,Customer 043,Consumer,North,Office Supplies,Pens,Gel Pen,345.01,92.69,8,0.2
+ORD-10381,2024-12-03,CUST-0025,Customer 025,Consumer,East,Furniture,Storage,Drawer Unit,891.13,25.73,7,0.0
+ORD-10407,2023-09-18,CUST-0087,Customer 087,Consumer,South,Furniture,Storage,Drawer Unit,257.74,2.11,1,0.15
+ORD-10382,2023-08-07,CUST-0019,Customer 019,Home Office,North,Furniture,Chairs,Visitor Chair,3129.31,192.89,8,0.05
+ORD-10107,2024-10-17,CUST-0092,Customer 092,Home Office,South,Furniture,Chairs,Ergonomic Chair,840.06,138.74,8,0.15
+ORD-10242,2023-04-18,CUST-0087,Customer 087,Corporate,West,Technology,Printers,Printer Ink,1906.65,522.43,7,0.05
+ORD-10363,2025-03-11,CUST-0109,Customer 109,Corporate,West,Technology,Laptops,Laptop Stand,2298.49,509.26,4,0.1
+ORD-10294,2023-12-02,CUST-0110,Customer 110,Consumer,South,Office Supplies,Binders,Folder,106.48,13.24,8,0.3
+ORD-10321,2025-02-10,CUST-0020,Customer 020,Home Office,West,Furniture,Tables,Work Table,494.92,63.37,2,0.0
+ORD-10337,2024-05-16,CUST-0086,Customer 086,Consumer,West,Technology,Phones,Smartphone,2217.48,431.86,7,0.3
+ORD-10245,2025-02-21,CUST-0074,Customer 074,Corporate,North,Furniture,Storage,Filing Cabinet,41.77,-1.77,1,0.3
+ORD-10358,2024-01-06,CUST-0105,Customer 105,Consumer,West,Furniture,Storage,Drawer Unit,392.56,55.03,7,0.3
+ORD-10228,2025-12-21,CUST-0072,Customer 072,Corporate,North,Furniture,Chairs,Visitor Chair,239.17,26.72,2,0.0
+ORD-10087,2023-03-22,CUST-0070,Customer 070,Corporate,North,Technology,Accessories,Keyboard,305.53,84.32,3,0.0
+ORD-10275,2024-05-23,CUST-0078,Customer 078,Home Office,South,Furniture,Chairs,Visitor Chair,817.47,144.83,5,0.3
+ORD-10373,2023-07-22,CUST-0017,Customer 017,Home Office,West,Office Supplies,Paper,A4 Paper,63.6,9.76,1,0.05
+ORD-10036,2023-06-02,CUST-0027,Customer 027,Home Office,East,Office Supplies,Pens,Marker Set,236.71,19.9,7,0.1
+ORD-10063,2024-01-30,CUST-0035,Customer 035,Home Office,North,Office Supplies,Pens,Gel Pen,202.5,22.3,3,0.15
+ORD-10193,2025-04-13,CUST-0029,Customer 029,Consumer,North,Technology,Laptops,Laptop Bag,650.69,84.93,2,0.05
+ORD-10162,2023-12-26,CUST-0022,Customer 022,Corporate,South,Office Supplies,Pens,Gel Pen,335.72,104.1,8,0.1
+ORD-10371,2024-12-07,CUST-0007,Customer 007,Home Office,East,Office Supplies,Labels,File Labels,121.03,28.6,3,0.3
+ORD-10416,2024-05-25,CUST-0092,Customer 092,Consumer,East,Office Supplies,Labels,Sticker Labels,411.4,76.59,8,0.2
+ORD-10252,2023-06-28,CUST-0071,Customer 071,Consumer,West,Furniture,Storage,Filing Cabinet,113.63,-7.0,2,0.0
+ORD-10381,2025-11-07,CUST-0107,Customer 107,Consumer,West,Office Supplies,Binders,Folder,399.11,29.04,8,0.3
+ORD-10263,2025-12-30,CUST-0018,Customer 018,Corporate,North,Office Supplies,Pens,Ballpoint Pen,43.69,6.12,1,0.2
+ORD-10150,2025-05-15,CUST-0062,Customer 062,Corporate,South,Furniture,Storage,Storage Box,874.66,152.63,6,0.2
+ORD-10182,2023-01-05,CUST-0008,Customer 008,Consumer,West,Office Supplies,Labels,Shipping Labels,211.06,64.27,5,0.0
+ORD-10078,2024-11-03,CUST-0066,Customer 066,Corporate,North,Furniture,Bookcases,Wood Bookcase,366.77,28.41,1,0.0
+ORD-10336,2025-09-25,CUST-0057,Customer 057,Corporate,South,Technology,Accessories,Keyboard,947.04,231.38,5,0.15
+ORD-10016,2023-10-14,CUST-0116,Customer 116,Consumer,South,Furniture,Storage,Storage Box,1946.3,72.73,6,0.1
+ORD-10371,2025-09-08,CUST-0065,Customer 065,Home Office,West,Office Supplies,Pens,Ballpoint Pen,366.92,113.86,7,0.05
+ORD-10377,2023-09-27,CUST-0077,Customer 077,Consumer,West,Technology,Phones,Smartphone,459.13,39.58,3,0.05
+ORD-10358,2025-09-10,CUST-0034,Customer 034,Consumer,West,Furniture,Bookcases,Metal Bookcase,222.27,-2.23,2,0.2
+ORD-10074,2024-02-11,CUST-0025,Customer 025,Corporate,North,Furniture,Chairs,Visitor Chair,1226.46,-51.36,3,0.05
+ORD-10026,2024-02-13,CUST-0083,Customer 083,Corporate,North,Technology,Phones,Desk Phone,3220.93,460.67,7,0.05
+ORD-10143,2024-07-05,CUST-0061,Customer 061,Home Office,North,Furniture,Bookcases,Metal Bookcase,3147.56,498.33,7,0.0
+ORD-10414,2025-06-01,CUST-0095,Customer 095,Corporate,East,Technology,Laptops,Laptop Stand,1333.49,208.12,6,0.3
+ORD-10418,2024-05-02,CUST-0084,Customer 084,Consumer,South,Office Supplies,Pens,Ballpoint Pen,286.19,86.9,7,0.2
+ORD-10364,2025-07-01,CUST-0071,Customer 071,Corporate,East,Technology,Phones,Phone Case,1386.2,283.0,6,0.2
+ORD-10023,2025-01-19,CUST-0038,Customer 038,Home Office,North,Furniture,Chairs,Ergonomic Chair,542.81,4.19,2,0.0
+ORD-10292,2024-01-25,CUST-0021,Customer 021,Consumer,North,Office Supplies,Labels,File Labels,54.34,4.95,2,0.15
+ORD-10142,2025-11-16,CUST-0019,Customer 019,Consumer,East,Furniture,Bookcases,Metal Bookcase,565.77,-4.52,4,0.05
+ORD-10369,2023-04-16,CUST-0034,Customer 034,Consumer,West,Office Supplies,Binders,Ring Binder,88.56,27.13,2,0.1
+ORD-10398,2024-08-26,CUST-0112,Customer 112,Home Office,North,Furniture,Chairs,Visitor Chair,118.99,-9.42,1,0.05
+ORD-10118,2025-02-21,CUST-0058,Customer 058,Home Office,West,Office Supplies,Pens,Gel Pen,73.49,10.92,4,0.2
+ORD-10010,2025-01-24,CUST-0037,Customer 037,Corporate,South,Technology,Printers,Inkjet Printer,1397.07,265.05,8,0.05
+ORD-10006,2023-12-30,CUST-0104,Customer 104,Home Office,North,Furniture,Tables,Work Table,351.19,26.15,3,0.15
+ORD-10006,2025-02-12,CUST-0077,Customer 077,Consumer,North,Furniture,Chairs,Office Chair,312.88,0.45,1,0.05
+ORD-10354,2024-11-24,CUST-0070,Customer 070,Corporate,North,Office Supplies,Paper,A4 Paper,104.47,12.42,3,0.05
+ORD-10180,2023-02-13,CUST-0019,Customer 019,Home Office,East,Technology,Phones,Phone Case,573.73,150.57,5,0.0
+ORD-10043,2024-04-07,CUST-0119,Customer 119,Consumer,South,Office Supplies,Labels,Sticker Labels,35.12,2.69,2,0.1
+ORD-10255,2023-12-31,CUST-0035,Customer 035,Home Office,East,Furniture,Bookcases,Compact Shelf,248.69,0.73,3,0.1
+ORD-10057,2024-06-27,CUST-0009,Customer 009,Home Office,West,Office Supplies,Paper,A4 Paper,34.49,6.19,3,0.15
+ORD-10170,2024-07-24,CUST-0082,Customer 082,Consumer,South,Technology,Phones,Desk Phone,469.55,76.13,3,0.15
+ORD-10383,2025-02-23,CUST-0104,Customer 104,Consumer,North,Furniture,Storage,Drawer Unit,2651.35,181.94,8,0.2
+ORD-10398,2024-04-26,CUST-0111,Customer 111,Consumer,East,Furniture,Chairs,Office Chair,247.48,7.87,1,0.0
+ORD-10190,2025-07-31,CUST-0055,Customer 055,Consumer,North,Technology,Printers,Inkjet Printer,2098.16,391.32,4,0.3
+ORD-10380,2023-06-01,CUST-0061,Customer 061,Consumer,East,Furniture,Tables,Work Table,139.0,4.63,3,0.2
+ORD-10426,2025-08-20,CUST-0051,Customer 051,Corporate,West,Furniture,Bookcases,Metal Bookcase,94.83,-2.32,1,0.0
+ORD-10316,2024-06-12,CUST-0052,Customer 052,Consumer,South,Office Supplies,Pens,Gel Pen,249.29,63.06,4,0.2
+ORD-10117,2023-12-17,CUST-0008,Customer 008,Consumer,East,Office Supplies,Binders,Ring Binder,332.29,86.56,8,0.2
+ORD-10191,2025-08-31,CUST-0084,Customer 084,Corporate,West,Office Supplies,Binders,Folder,298.46,93.79,7,0.3

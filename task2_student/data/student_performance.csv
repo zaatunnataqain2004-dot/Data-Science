@@ -1,0 +1,502 @@
+Student_ID,Study_Time_Hours,Attendance_Percent,Previous_Score,Parental_Education,Internet_Access,Extracurricular_Activities,Final_Score
+S0001,5,56.0,62,High School,Yes,Yes,64.8
+S0002,5,100.0,30,Bachelor,Yes,No,83.3
+S0003,1,98.0,46,Bachelor,Yes,No,58.9
+S0004,5,66.0,59,High School,Yes,Yes,79.3
+S0005,4,,39,College,No,No,53.9
+S0006,5,90.0,31,College,No,No,76.8
+S0007,1,56.0,79,Bachelor,Yes,Yes,56.7
+S0008,5,89.0,90,High School,Yes,No,89.3
+S0009,3,96.0,62,College,Yes,Yes,69.3
+S0010,5,87.0,82,Postgraduate,No,Yes,95.7
+S0011,1,97.0,96,Bachelor,Yes,Yes,86.8
+S0012,3,79.0,77,High School,No,Yes,62.2
+S0013,3,60.0,46,Postgraduate,Yes,Yes,58.8
+S0014,2,99.0,70,Postgraduate,Yes,No,77.4
+S0015,1,67.0,34,Postgraduate,Yes,No,52.7
+S0016,1,93.0,51,Bachelor,Yes,Yes,50.8
+S0017,4,87.0,57,Postgraduate,Yes,No,73.5
+S0018,5,63.0,71,Bachelor,Yes,No,82.0
+S0019,3,70.0,73,,Yes,Yes,85.5
+S0020,3,62.0,56,Bachelor,Yes,Yes,60.0
+S0021,2,87.0,37,Postgraduate,Yes,No,54.1
+S0022,2,89.0,65,High School,Yes,No,65.5
+S0023,4,95.0,80,Bachelor,Yes,Yes,82.4
+S0024,4,70.0,65,Postgraduate,Yes,Yes,70.4
+S0025,3,82.0,55,Postgraduate,No,Yes,66.0
+S0026,4,91.0,84,High School,Yes,Yes,73.0
+S0027,4,100.0,96,Bachelor,Yes,Yes,93.2
+S0028,3,65.0,88,Bachelor,No,No,55.6
+S0029,2,67.0,50,High School,Yes,Yes,52.4
+S0030,4,59.0,32,Postgraduate,Yes,Yes,67.1
+S0031,5,75.0,83,Postgraduate,Yes,Yes,86.7
+S0032,4,61.0,88,High School,Yes,Yes,52.2
+S0033,5,100.0,78,High School,Yes,Yes,81.2
+S0034,2,85.0,81,College,Yes,Yes,59.0
+S0035,2,87.0,88,Bachelor,Yes,No,84.8
+S0036,4,74.0,75,Postgraduate,Yes,Yes,89.0
+S0037,3,97.0,49,College,Yes,Yes,70.6
+S0038,2,98.0,86,High School,No,Yes,66.0
+S0039,5,70.0,58,College,Yes,Yes,79.7
+S0040,1,96.0,55,Postgraduate,No,No,65.7
+S0041,4,67.0,91,High School,Yes,Yes,60.3
+S0042,2,56.0,89,High School,Yes,No,71.2
+S0043,5,80.0,92,High School,Yes,Yes,83.1
+S0044,2,59.0,86,College,Yes,Yes,51.8
+S0045,2,63.0,69,Bachelor,Yes,No,68.4
+S0046,5,97.0,45,High School,Yes,No,62.7
+S0047,2,62.0,30,High School,Yes,Yes,49.8
+S0048,5,60.0,54,College,Yes,No,78.6
+S0049,4,96.0,48,High School,No,Yes,78.8
+S0050,4,87.0,38,College,No,Yes,68.7
+S0051,5,63.0,86,College,Yes,No,71.9
+S0052,4,81.0,43,College,Yes,No,73.3
+S0053,5,66.0,55,College,Yes,Yes,78.5
+S0054,1,94.0,44,Bachelor,Yes,Yes,70.8
+S0055,3,78.0,45,High School,Yes,Yes,50.1
+S0056,4,99.0,34,High School,Yes,No,66.4
+S0057,4,56.0,89,Postgraduate,No,No,74.4
+S0058,5,70.0,100,College,No,Yes,78.9
+S0059,5,61.0,61,College,Yes,Yes,68.8
+S0060,1,78.0,62,High School,Yes,Yes,54.3
+S0061,2,77.0,79,High School,Yes,No,53.6
+S0062,1,85.0,38,High School,Yes,Yes,48.8
+S0063,1,72.0,35,Postgraduate,Yes,No,54.1
+S0064,2,63.0,32,College,No,No,34.0
+S0065,1,74.0,64,Postgraduate,Yes,Yes,60.4
+S0066,1,95.0,82,High School,Yes,No,59.1
+S0067,4,88.0,61,Postgraduate,No,Yes,77.9
+S0068,3,76.0,52,High School,Yes,No,70.8
+S0069,3,92.0,33,High School,Yes,Yes,56.9
+S0070,2,99.0,99,High School,No,Yes,63.5
+S0071,2,82.0,94,College,Yes,No,79.8
+S0072,3,79.0,91,Postgraduate,No,No,75.5
+S0073,1,67.0,56,College,No,Yes,37.0
+S0074,2,94.0,64,Postgraduate,Yes,Yes,74.9
+S0075,2,58.0,54,Postgraduate,No,No,58.0
+S0076,3,99.0,79,Bachelor,Yes,No,68.2
+S0077,2,56.0,55,Bachelor,Yes,No,56.2
+S0078,2,79.0,41,Bachelor,Yes,No,62.5
+S0079,1,80.0,79,High School,Yes,No,48.9
+S0080,4,71.0,48,College,No,Yes,65.6
+S0081,2,90.0,93,Bachelor,Yes,Yes,73.6
+S0082,5,79.0,40,High School,Yes,No,70.8
+S0083,1,85.0,56,Bachelor,Yes,No,67.0
+S0084,5,94.0,65,High School,Yes,Yes,78.3
+S0085,1,60.0,31,College,Yes,Yes,41.9
+S0086,2,69.0,95,Postgraduate,Yes,Yes,78.6
+S0087,1,88.0,61,Postgraduate,Yes,No,64.9
+S0088,5,95.0,77,Bachelor,Yes,Yes,100.0
+S0089,5,93.0,79,Postgraduate,Yes,No,84.4
+S0090,4,81.0,37,Postgraduate,Yes,Yes,60.9
+S0091,1,64.0,94,College,Yes,Yes,72.7
+S0092,1,66.0,91,High School,Yes,No,57.9
+S0093,3,64.0,96,Bachelor,Yes,No,71.1
+S0094,5,71.0,30,Postgraduate,Yes,No,71.4
+S0095,1,63.0,76,Bachelor,Yes,Yes,72.5
+S0096,2,75.0,43,Bachelor,Yes,No,47.8
+S0097,1,83.0,52,College,Yes,No,34.3
+S0098,3,92.0,95,Bachelor,Yes,No,71.9
+S0099,3,56.0,46,Postgraduate,Yes,Yes,52.3
+S0100,3,82.0,94,High School,No,Yes,77.7
+S0101,5,76.0,98,Bachelor,Yes,No,83.1
+S0102,5,97.0,91,Bachelor,Yes,Yes,92.3
+S0103,5,88.0,77,College,Yes,Yes,80.5
+S0104,4,64.0,66,High School,No,Yes,54.4
+S0105,4,68.0,75,Postgraduate,Yes,No,82.5
+S0106,1,91.0,39,High School,Yes,Yes,53.7
+S0107,2,96.0,77,Bachelor,Yes,No,82.1
+S0108,3,69.0,63,Bachelor,No,Yes,63.9
+S0109,4,79.0,78,High School,Yes,No,62.3
+S0110,1,59.0,62,Postgraduate,Yes,No,57.9
+S0111,4,55.0,60,Bachelor,No,No,75.1
+S0112,2,89.0,31,Bachelor,No,Yes,58.3
+S0113,4,98.0,50,College,No,No,61.4
+S0114,3,94.0,34,College,Yes,Yes,61.0
+S0115,2,84.0,40,Bachelor,Yes,Yes,69.7
+S0116,5,56.0,95,College,Yes,No,88.4
+S0117,5,81.0,87,Postgraduate,Yes,No,79.1
+S0118,1,74.0,47,Bachelor,Yes,No,49.4
+S0119,2,61.0,52,High School,Yes,No,34.7
+S0120,4,57.0,64,College,No,Yes,64.2
+S0121,4,90.0,82,College,Yes,No,78.9
+S0122,2,87.0,89,College,Yes,Yes,97.1
+S0123,2,72.0,100,High School,Yes,Yes,67.4
+S0124,3,88.0,43,High School,Yes,Yes,74.7
+S0125,5,89.0,98,Bachelor,Yes,No,92.0
+S0126,1,67.0,70,Bachelor,Yes,Yes,54.6
+S0127,5,63.0,96,Bachelor,No,No,87.4
+S0128,3,95.0,46,College,Yes,Yes,78.9
+S0129,3,96.0,43,College,Yes,Yes,57.7
+S0130,1,90.0,35,College,Yes,No,55.8
+S0131,1,81.0,94,College,Yes,No,72.8
+S0132,2,63.0,71,High School,Yes,No,48.6
+S0133,4,94.0,92,Bachelor,Yes,Yes,88.2
+S0134,4,78.0,56,High School,Yes,No,68.0
+S0135,2,65.0,64,Postgraduate,No,No,64.6
+S0136,1,58.0,50,Postgraduate,Yes,No,67.9
+S0137,4,82.0,89,Bachelor,Yes,No,77.1
+S0138,5,97.0,56,College,Yes,Yes,75.3
+S0139,3,98.0,74,Postgraduate,Yes,Yes,85.0
+S0140,2,57.0,64,College,Yes,No,58.6
+S0141,1,97.0,44,High School,Yes,No,54.9
+S0142,3,81.0,98,Bachelor,Yes,Yes,64.4
+S0143,5,72.0,48,High School,Yes,No,70.3
+S0144,3,85.0,98,Postgraduate,No,No,79.3
+S0145,2,95.0,70,College,Yes,Yes,67.1
+S0146,1,55.0,33,Bachelor,Yes,No,41.8
+S0147,4,67.0,62,Bachelor,Yes,Yes,69.0
+S0148,4,97.0,80,Bachelor,Yes,Yes,80.8
+S0149,4,91.0,97,College,Yes,Yes,94.2
+S0150,3,80.0,47,College,Yes,No,66.7
+S0151,3,77.0,47,Postgraduate,Yes,Yes,73.0
+S0152,3,70.0,61,High School,Yes,No,64.5
+S0153,2,68.0,73,Postgraduate,No,Yes,69.7
+S0154,1,62.0,86,High School,No,No,49.4
+S0155,5,90.0,52,College,Yes,Yes,88.9
+S0156,1,99.0,92,Bachelor,Yes,No,76.7
+S0157,1,90.0,31,Bachelor,Yes,No,63.4
+S0158,5,98.0,66,Postgraduate,No,Yes,85.9
+S0159,3,71.0,84,Postgraduate,Yes,No,77.6
+S0160,5,69.0,67,High School,Yes,Yes,79.8
+S0161,4,90.0,32,Postgraduate,Yes,Yes,72.5
+S0162,2,70.0,60,College,No,Yes,51.5
+S0163,4,87.0,63,Bachelor,Yes,Yes,80.4
+S0164,5,58.0,64,High School,Yes,Yes,82.3
+S0165,4,56.0,35,High School,Yes,No,62.6
+S0166,3,65.0,89,High School,Yes,No,61.4
+S0167,3,59.0,46,High School,Yes,No,59.4
+S0168,4,58.0,56,High School,Yes,Yes,71.6
+S0169,4,83.0,65,College,No,Yes,76.1
+S0170,3,62.0,60,High School,No,Yes,55.0
+S0171,3,93.0,51,High School,Yes,Yes,57.6
+S0172,5,59.0,67,High School,Yes,Yes,81.1
+S0173,4,71.0,83,High School,No,No,74.2
+S0174,3,92.0,34,Postgraduate,No,No,88.2
+S0175,2,93.0,87,Bachelor,Yes,No,79.5
+S0176,1,63.0,82,Postgraduate,Yes,No,68.1
+S0177,1,99.0,42,Bachelor,Yes,Yes,56.7
+S0178,3,70.0,95,Bachelor,Yes,Yes,82.0
+S0179,1,64.0,55,Bachelor,Yes,Yes,69.3
+S0180,3,70.0,94,Postgraduate,No,Yes,78.0
+S0181,2,72.0,71,Bachelor,Yes,Yes,65.4
+S0182,4,94.0,51,College,Yes,Yes,61.7
+S0183,2,69.0,46,Postgraduate,No,Yes,58.8
+S0184,1,78.0,74,College,Yes,No,41.3
+S0185,2,65.0,76,Bachelor,Yes,No,69.6
+S0186,1,87.0,87,Postgraduate,Yes,Yes,77.3
+S0187,1,82.0,83,College,Yes,Yes,55.6
+S0188,5,62.0,66,High School,Yes,Yes,68.8
+S0189,3,85.0,92,High School,Yes,No,71.8
+S0190,5,77.0,57,Bachelor,Yes,Yes,64.5
+S0191,4,95.0,70,Bachelor,Yes,No,70.7
+S0192,1,100.0,65,Postgraduate,Yes,Yes,63.4
+S0193,2,86.0,91,High School,No,Yes,58.4
+S0194,2,58.0,80,High School,No,No,61.7
+S0195,2,66.0,73,Bachelor,Yes,Yes,69.5
+S0196,2,96.0,76,High School,No,Yes,65.7
+S0197,5,100.0,99,Postgraduate,No,Yes,98.6
+S0198,2,93.0,80,High School,No,No,53.4
+S0199,4,74.0,31,Bachelor,Yes,No,65.5
+S0200,5,85.0,52,Postgraduate,Yes,Yes,81.5
+S0201,2,76.0,70,High School,Yes,No,61.4
+S0202,2,81.0,84,High School,Yes,No,62.5
+S0203,2,83.0,82,College,No,No,65.3
+S0204,1,92.0,97,Bachelor,Yes,Yes,79.2
+S0205,3,95.0,81,Postgraduate,No,No,74.6
+S0206,4,66.0,85,High School,Yes,Yes,60.1
+S0207,4,93.0,80,High School,Yes,Yes,76.2
+S0208,4,65.0,73,Bachelor,Yes,Yes,71.5
+S0209,2,96.0,77,College,Yes,No,59.8
+S0210,5,100.0,71,Postgraduate,No,No,89.1
+S0211,1,74.0,64,Postgraduate,Yes,No,67.1
+S0212,1,95.0,41,College,No,Yes,61.0
+S0213,2,68.0,47,Bachelor,No,Yes,60.1
+S0214,2,86.0,40,College,Yes,Yes,60.5
+S0215,4,99.0,50,Postgraduate,Yes,Yes,67.5
+S0216,4,69.0,91,Postgraduate,No,Yes,71.9
+S0217,2,88.0,88,College,Yes,Yes,77.5
+S0218,5,79.0,61,College,Yes,Yes,64.2
+S0219,1,87.0,75,High School,Yes,No,54.8
+S0220,4,78.0,67,High School,Yes,Yes,81.6
+S0221,2,67.0,74,Bachelor,No,No,53.4
+S0222,4,59.0,76,College,Yes,Yes,72.4
+S0223,3,62.0,64,Postgraduate,Yes,No,75.0
+S0224,4,88.0,30,College,No,Yes,56.4
+S0225,4,90.0,67,College,Yes,Yes,60.9
+S0226,5,79.0,63,Postgraduate,No,Yes,70.5
+S0227,4,64.0,58,Bachelor,No,No,70.0
+S0228,1,60.0,44,Postgraduate,Yes,No,48.0
+S0229,5,78.0,30,High School,Yes,No,76.3
+S0230,4,86.0,81,High School,Yes,No,86.2
+S0231,4,71.0,53,Postgraduate,No,Yes,62.1
+S0232,4,76.0,92,High School,No,Yes,79.4
+S0233,5,68.0,100,High School,Yes,No,81.7
+S0234,3,90.0,34,High School,Yes,Yes,64.8
+S0235,1,70.0,79,Postgraduate,Yes,No,58.6
+S0236,1,89.0,48,Bachelor,Yes,No,52.5
+S0237,2,98.0,38,Bachelor,Yes,Yes,61.8
+S0238,4,60.0,69,Postgraduate,Yes,No,79.7
+S0239,5,100.0,88,Postgraduate,Yes,Yes,93.7
+S0240,4,100.0,35,High School,Yes,No,71.2
+S0241,4,64.0,80,Postgraduate,No,No,78.3
+S0242,3,72.0,66,High School,Yes,No,66.1
+S0243,3,92.0,51,College,No,No,62.8
+S0244,5,76.0,58,Postgraduate,Yes,No,68.5
+S0245,1,55.0,87,College,No,No,55.5
+S0246,1,95.0,90,High School,Yes,Yes,71.4
+S0247,1,80.0,54,College,Yes,No,56.7
+S0248,5,75.0,34,Bachelor,Yes,No,68.0
+S0249,4,92.0,66,High School,No,Yes,82.6
+S0250,1,99.0,100,Bachelor,Yes,Yes,70.4
+S0251,1,78.0,71,High School,No,Yes,62.1
+S0252,3,86.0,99,High School,Yes,No,85.3
+S0253,2,86.0,48,Postgraduate,Yes,No,70.5
+S0254,5,63.0,56,Postgraduate,Yes,Yes,83.1
+S0255,3,66.0,41,Bachelor,Yes,No,64.2
+S0256,2,55.0,94,High School,Yes,Yes,59.8
+S0257,4,89.0,65,Bachelor,Yes,Yes,68.4
+S0258,5,79.0,37,High School,Yes,Yes,72.6
+S0259,2,61.0,73,Bachelor,Yes,No,67.1
+S0260,2,57.0,85,Postgraduate,Yes,Yes,56.6
+S0261,2,61.0,82,Bachelor,Yes,Yes,82.6
+S0262,4,81.0,52,Postgraduate,No,Yes,78.7
+S0263,2,67.0,48,High School,Yes,No,58.3
+S0264,4,87.0,35,College,Yes,No,70.5
+S0265,4,68.0,66,Postgraduate,Yes,Yes,76.7
+S0266,5,75.0,88,Postgraduate,Yes,Yes,94.1
+S0267,2,78.0,71,College,Yes,No,68.6
+S0268,2,84.0,60,Postgraduate,Yes,Yes,61.1
+S0269,3,66.0,99,College,Yes,No,73.4
+S0270,5,99.0,77,College,Yes,No,91.3
+S0271,5,73.0,38,Postgraduate,Yes,Yes,73.2
+S0272,5,98.0,51,Postgraduate,Yes,Yes,95.1
+S0273,3,71.0,36,High School,Yes,Yes,63.7
+S0274,2,81.0,44,High School,No,No,59.3
+S0275,5,97.0,67,High School,No,Yes,84.7
+S0276,5,99.0,97,College,No,Yes,98.6
+S0277,3,89.0,36,High School,Yes,Yes,43.2
+S0278,4,98.0,83,High School,Yes,No,68.4
+S0279,4,90.0,37,College,No,No,63.8
+S0280,4,83.0,45,High School,Yes,No,58.7
+S0281,1,88.0,46,High School,No,No,46.4
+S0282,1,77.0,53,High School,Yes,Yes,45.5
+S0283,5,99.0,89,Postgraduate,Yes,No,75.7
+S0284,4,93.0,43,Postgraduate,Yes,Yes,79.3
+S0285,1,84.0,79,High School,Yes,Yes,68.9
+S0286,3,87.0,54,Postgraduate,Yes,No,70.7
+S0287,1,58.0,67,Bachelor,Yes,No,47.0
+S0288,3,59.0,40,College,No,Yes,49.0
+S0289,2,83.0,73,High School,Yes,No,73.9
+S0290,1,66.0,54,Bachelor,Yes,No,51.7
+S0291,5,57.0,68,Postgraduate,Yes,Yes,87.5
+S0292,5,100.0,79,Postgraduate,Yes,Yes,96.2
+S0293,4,91.0,33,High School,Yes,No,75.3
+S0294,1,65.0,82,High School,Yes,Yes,61.8
+S0295,2,85.0,98,College,Yes,Yes,74.8
+S0296,5,72.0,37,Postgraduate,Yes,No,72.2
+S0297,2,93.0,79,Postgraduate,No,No,66.4
+S0298,4,77.0,89,High School,Yes,Yes,74.8
+S0299,2,79.0,61,Bachelor,No,Yes,65.3
+S0300,5,66.0,47,High School,Yes,Yes,63.9
+S0301,1,80.0,43,College,Yes,Yes,60.4
+S0302,3,84.0,58,Bachelor,Yes,Yes,71.1
+S0303,4,88.0,80,High School,Yes,Yes,82.3
+S0304,1,61.0,81,Bachelor,Yes,Yes,67.1
+S0305,2,67.0,78,Bachelor,Yes,No,53.7
+S0306,1,68.0,41,College,Yes,No,54.7
+S0307,2,78.0,91,Postgraduate,Yes,Yes,74.5
+S0308,5,61.0,84,College,Yes,Yes,88.4
+S0309,4,81.0,62,High School,Yes,No,70.8
+S0310,1,91.0,73,Postgraduate,Yes,No,66.6
+S0311,4,70.0,79,College,No,Yes,64.4
+S0312,2,73.0,31,College,No,Yes,37.1
+S0313,3,91.0,54,Postgraduate,No,No,70.9
+S0314,3,96.0,57,Bachelor,Yes,Yes,74.6
+S0315,3,93.0,86,High School,Yes,Yes,73.0
+S0316,3,70.0,75,High School,Yes,Yes,79.1
+S0317,3,81.0,73,College,Yes,Yes,70.9
+S0318,5,78.0,69,College,Yes,Yes,80.1
+S0319,3,59.0,92,High School,Yes,Yes,83.7
+S0320,2,88.0,40,Bachelor,No,Yes,59.5
+S0321,2,94.0,67,Bachelor,No,Yes,63.4
+S0322,5,79.0,80,Postgraduate,Yes,Yes,100.0
+S0323,3,84.0,67,Postgraduate,Yes,No,82.4
+S0324,1,66.0,64,College,Yes,No,70.6
+S0325,1,70.0,95,College,Yes,Yes,61.5
+S0326,2,84.0,51,Bachelor,Yes,No,68.3
+S0327,2,60.0,41,College,Yes,Yes,64.2
+S0328,1,80.0,49,Postgraduate,Yes,No,53.5
+S0329,4,72.0,94,Postgraduate,Yes,Yes,81.2
+S0330,2,94.0,85,High School,Yes,No,65.6
+S0331,3,65.0,40,Bachelor,Yes,Yes,70.2
+S0332,2,72.0,45,High School,Yes,Yes,52.7
+S0333,2,64.0,58,Bachelor,Yes,No,56.0
+S0334,3,75.0,59,Bachelor,Yes,Yes,62.6
+S0335,3,88.0,37,College,Yes,No,61.1
+S0336,4,95.0,32,Postgraduate,Yes,No,82.3
+S0337,1,81.0,69,High School,Yes,Yes,45.9
+S0338,2,75.0,37,Bachelor,Yes,No,63.2
+S0339,2,91.0,45,College,No,Yes,66.0
+S0340,4,76.0,58,High School,Yes,No,68.0
+S0341,1,76.0,31,High School,Yes,Yes,43.8
+S0342,2,87.0,74,Postgraduate,Yes,Yes,68.8
+S0343,3,74.0,47,Postgraduate,Yes,No,78.3
+S0344,2,71.0,66,High School,Yes,No,68.9
+S0345,2,55.0,51,Bachelor,Yes,Yes,62.9
+S0346,2,74.0,39,College,Yes,No,59.3
+S0347,3,93.0,85,High School,Yes,Yes,70.3
+S0348,1,63.0,76,Postgraduate,Yes,Yes,49.0
+S0349,1,80.0,82,College,No,Yes,57.7
+S0350,5,99.0,73,Postgraduate,Yes,No,90.6
+S0351,2,59.0,74,Postgraduate,No,No,67.3
+S0352,1,97.0,74,High School,Yes,No,49.1
+S0353,3,78.0,48,High School,Yes,Yes,51.7
+S0354,2,73.0,92,Bachelor,Yes,No,61.8
+S0355,5,75.0,95,College,Yes,Yes,91.7
+S0356,2,98.0,51,Postgraduate,Yes,No,67.4
+S0357,1,55.0,34,High School,Yes,No,40.7
+S0358,2,59.0,67,Postgraduate,Yes,Yes,53.4
+S0359,1,63.0,37,Postgraduate,Yes,Yes,55.1
+S0360,4,65.0,64,High School,Yes,No,63.0
+S0361,4,80.0,35,Postgraduate,Yes,No,62.5
+S0362,3,67.0,78,Postgraduate,Yes,No,64.2
+S0363,3,97.0,92,High School,Yes,Yes,72.2
+S0364,1,70.0,38,Bachelor,Yes,Yes,61.8
+S0365,2,56.0,80,College,Yes,Yes,57.4
+S0366,4,81.0,42,High School,Yes,Yes,56.5
+S0367,1,92.0,63,College,Yes,Yes,60.0
+S0368,5,99.0,55,Postgraduate,Yes,No,88.5
+S0369,5,68.0,38,Bachelor,Yes,Yes,60.8
+S0370,5,73.0,41,High School,Yes,No,70.6
+S0371,3,89.0,49,College,Yes,No,43.6
+S0372,5,61.0,36,Bachelor,Yes,Yes,74.6
+S0373,4,57.0,78,High School,Yes,No,71.6
+S0374,2,91.0,33,College,Yes,No,43.8
+S0375,4,94.0,81,Postgraduate,Yes,No,81.6
+S0376,5,71.0,100,Postgraduate,Yes,No,90.9
+S0377,3,93.0,62,High School,Yes,No,76.9
+S0378,4,90.0,62,College,Yes,Yes,79.8
+S0379,4,91.0,67,Postgraduate,Yes,No,76.6
+S0380,5,84.0,30,Bachelor,Yes,No,78.8
+S0381,3,77.0,100,Postgraduate,Yes,No,79.0
+S0382,1,67.0,95,College,Yes,No,60.3
+S0383,1,64.0,74,College,Yes,No,69.4
+S0384,1,97.0,83,High School,Yes,No,71.7
+S0385,5,78.0,64,High School,No,No,77.3
+S0386,5,70.0,47,Postgraduate,Yes,Yes,63.4
+S0387,5,90.0,64,Bachelor,Yes,No,74.2
+S0388,4,99.0,91,High School,Yes,Yes,70.2
+S0389,3,85.0,77,Bachelor,Yes,No,82.2
+S0390,1,62.0,36,High School,Yes,No,45.7
+S0391,4,83.0,57,Bachelor,Yes,Yes,79.5
+S0392,3,55.0,100,College,Yes,No,76.0
+S0393,3,90.0,34,Postgraduate,Yes,No,61.0
+S0394,3,83.0,32,College,Yes,No,45.8
+S0395,4,72.0,52,High School,Yes,No,59.4
+S0396,2,73.0,62,College,Yes,No,63.7
+S0397,4,92.0,94,College,Yes,No,85.5
+S0398,3,100.0,95,Bachelor,Yes,Yes,84.3
+S0399,4,90.0,37,Bachelor,Yes,Yes,80.5
+S0400,4,73.0,61,High School,Yes,Yes,62.8
+S0401,5,86.0,80,Bachelor,No,Yes,98.8
+S0402,3,68.0,89,College,Yes,No,62.8
+S0403,5,76.0,65,Bachelor,Yes,No,75.7
+S0404,1,66.0,72,College,Yes,Yes,41.6
+S0405,2,62.0,34,Postgraduate,Yes,Yes,56.8
+S0406,3,86.0,62,College,Yes,Yes,82.9
+S0407,4,55.0,38,Bachelor,Yes,Yes,72.9
+S0408,2,75.0,37,High School,Yes,No,58.5
+S0409,1,74.0,45,College,Yes,No,65.8
+S0410,1,55.0,32,Bachelor,Yes,Yes,52.4
+S0411,1,84.0,37,High School,Yes,No,50.5
+S0412,2,89.0,79,Postgraduate,Yes,Yes,67.4
+S0413,3,73.0,88,Bachelor,Yes,No,65.1
+S0414,4,59.0,66,Postgraduate,No,Yes,77.9
+S0415,4,72.0,100,Bachelor,Yes,No,73.5
+S0416,5,96.0,33,Bachelor,Yes,Yes,73.3
+S0417,3,55.0,67,Bachelor,Yes,Yes,63.4
+S0418,5,80.0,95,Postgraduate,Yes,Yes,87.8
+S0419,4,59.0,99,Bachelor,Yes,No,84.7
+S0420,3,65.0,33,High School,Yes,Yes,50.3
+S0421,4,86.0,86,High School,No,Yes,71.4
+S0422,2,98.0,67,High School,Yes,No,70.7
+S0423,4,86.0,41,Bachelor,Yes,Yes,68.2
+S0424,4,94.0,69,College,Yes,No,75.6
+S0425,1,75.0,69,High School,Yes,Yes,62.9
+S0426,3,83.0,83,High School,Yes,No,70.6
+S0427,1,60.0,85,High School,Yes,Yes,51.6
+S0428,4,56.0,88,Bachelor,Yes,No,85.1
+S0429,5,96.0,47,Bachelor,Yes,Yes,77.0
+S0430,5,92.0,82,High School,Yes,Yes,88.8
+S0431,5,61.0,54,Postgraduate,Yes,No,75.3
+S0432,3,89.0,36,Postgraduate,Yes,No,72.3
+S0433,4,81.0,35,Postgraduate,Yes,Yes,79.3
+S0434,3,83.0,34,High School,No,Yes,65.0
+S0435,5,59.0,57,Postgraduate,Yes,No,71.9
+S0436,5,91.0,42,College,No,Yes,77.0
+S0437,1,99.0,47,Postgraduate,No,No,57.4
+S0438,5,77.0,91,Postgraduate,No,No,100.0
+S0439,2,74.0,92,College,No,No,68.8
+S0440,5,85.0,89,College,Yes,Yes,96.5
+S0441,2,66.0,37,High School,Yes,No,32.9
+S0442,4,90.0,43,Postgraduate,Yes,Yes,80.9
+S0443,3,72.0,97,Postgraduate,Yes,No,79.0
+S0444,1,56.0,47,Postgraduate,Yes,Yes,56.9
+S0445,4,86.0,85,Postgraduate,No,No,72.8
+S0446,1,67.0,49,High School,No,No,40.8
+S0447,2,73.0,84,Bachelor,Yes,Yes,67.1
+S0448,4,94.0,92,College,No,No,81.1
+S0449,3,70.0,82,High School,No,No,63.8
+S0450,1,77.0,67,Postgraduate,Yes,Yes,68.8
+S0451,4,65.0,60,High School,Yes,Yes,72.1
+S0452,2,94.0,100,Postgraduate,Yes,No,93.0
+S0453,3,98.0,79,College,Yes,Yes,68.6
+S0454,3,70.0,37,High School,Yes,No,48.9
+S0455,2,86.0,78,College,Yes,No,75.1
+S0456,3,58.0,47,College,Yes,Yes,58.5
+S0457,4,99.0,48,College,Yes,Yes,68.2
+S0458,5,59.0,77,Postgraduate,Yes,Yes,80.5
+S0459,1,98.0,92,College,Yes,Yes,73.1
+S0460,4,60.0,83,College,Yes,Yes,61.0
+S0461,1,78.0,80,College,Yes,Yes,69.7
+S0462,2,58.0,78,Bachelor,Yes,Yes,55.8
+S0463,2,56.0,93,Bachelor,Yes,No,74.4
+S0464,1,84.0,99,Bachelor,Yes,No,75.9
+S0465,3,64.0,74,High School,Yes,No,54.2
+S0466,2,58.0,92,College,Yes,Yes,62.0
+S0467,5,99.0,42,Postgraduate,Yes,No,79.4
+S0468,2,62.0,65,Bachelor,No,No,54.8
+S0469,3,99.0,45,Postgraduate,Yes,No,63.5
+S0470,5,86.0,53,Bachelor,No,No,70.3
+S0471,5,58.0,81,College,Yes,No,81.1
+S0472,4,76.0,30,College,Yes,No,60.2
+S0473,5,91.0,63,High School,Yes,No,65.3
+S0474,1,98.0,30,Bachelor,Yes,No,52.1
+S0475,4,89.0,68,Postgraduate,Yes,No,75.4
+S0476,5,99.0,85,Postgraduate,Yes,No,94.1
+S0477,3,79.0,84,Bachelor,Yes,No,83.4
+S0478,3,61.0,99,Bachelor,Yes,No,57.9
+S0479,3,85.0,76,College,Yes,No,78.9
+S0480,5,87.0,70,College,Yes,Yes,80.0
+S0481,1,72.0,57,High School,No,Yes,54.0
+S0482,5,91.0,45,College,No,Yes,81.4
+S0483,1,100.0,94,High School,Yes,Yes,66.9
+S0484,5,55.0,63,Bachelor,Yes,No,72.6
+S0485,1,92.0,85,Bachelor,Yes,No,78.4
+S0486,3,71.0,96,Postgraduate,Yes,Yes,86.1
+S0487,1,61.0,83,College,Yes,No,63.1
+S0488,2,95.0,84,High School,No,No,75.7
+S0489,5,58.0,54,College,Yes,Yes,69.7
+S0490,1,59.0,63,Postgraduate,Yes,No,51.8
+S0491,1,98.0,48,High School,Yes,Yes,58.3
+S0492,5,90.0,96,College,Yes,Yes,90.1
+S0493,5,58.0,99,High School,Yes,No,93.2
+S0494,4,66.0,49,Postgraduate,Yes,No,58.8
+S0495,3,96.0,71,Bachelor,Yes,Yes,59.1
+S0496,5,90.0,33,Postgraduate,No,No,72.9
+S0497,3,87.0,51,Postgraduate,No,No,69.7
+S0498,3,58.0,51,Postgraduate,Yes,Yes,55.3
+S0499,4,56.0,95,Bachelor,Yes,No,91.7
+S0500,3,79.0,36,High School,Yes,No,63.1
+S0011,1,97.0,96,Bachelor,Yes,Yes,86.8
