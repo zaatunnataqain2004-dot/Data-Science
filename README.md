@@ -1,4 +1,4 @@
-# Slab 1 — All 4 Beginner Data Analysis Projects
+# Slab 1 — All 4 Data Analysis Projects
 
 1. `task1_retail/` — interactive Streamlit retail dashboard (`streamlit run app.py`)
 2. `task2_student/` — student score analysis and prediction (`python student_performance.py`)
